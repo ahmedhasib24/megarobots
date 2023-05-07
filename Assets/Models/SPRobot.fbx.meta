@@ -1,0 +1,4493 @@
+fileFormatVersion: 2
+guid: 1d06448b1fcc1294280a3d3e99c09a8d
+timeCreated: 1529663181
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: aprt1
+    100002: body
+    100004: body 1
+    100006: body 2
+    100008: group2
+    100010: Head
+    100012: head
+    100014: Head 1
+    100016: Head 2
+    100018: Hips
+    100020: joint2
+    100022: joint3
+    100024: joint4
+    100026: joint5
+    100028: LArm
+    100030: LArm 1
+    100032: LArm 2
+    100034: LeftArm
+    100036: LeftForeArm
+    100038: LeftHand
+    100040: LeftShoulder
+    100042: Leg
+    100044: Leg 1
+    100046: Leg 2
+    100048: Leg 3
+    100050: leg1
+    100052: leg1 1
+    100054: leg1 2
+    100056: leg1_1
+    100058: leg2
+    100060: leg2 1
+    100062: leg2 2
+    100064: leg2_1
+    100066: leg2_2
+    100068: leg2_3
+    100070: leg2_4
+    100072: leg2_5
+    100074: leg3
+    100076: leg3 1
+    100078: leg3 2
+    100080: leg3_1
+    100082: leg3_2
+    100084: leg3_3
+    100086: leg3_4
+    100088: leg3_5
+    100090: leg4
+    100092: leg4 1
+    100094: leg4 2
+    100096: leg4_1
+    100098: leg4_2
+    100100: leg4_3
+    100102: leg4_4
+    100104: leg4_5
+    100106: leg5
+    100108: leg5 1
+    100110: leg5 2
+    100112: leg5_1
+    100114: leg5_2
+    100116: leg5_3
+    100118: leg5_4
+    100120: leg5_5
+    100122: leg6
+    100124: leg6 1
+    100126: leg6 2
+    100128: leg6_1
+    100130: leg6_2
+    100132: leg6_3
+    100134: leg6_4
+    100136: leg6_5
+    100138: Neck
+    100140: part1
+    100142: part1 1
+    100144: part1 10
+    100146: part1 11
+    100148: part1 12
+    100150: part1 13
+    100152: part1 14
+    100154: part1 15
+    100156: part1 16
+    100158: part1 17
+    100160: part1 18
+    100162: part1 19
+    100164: part1 2
+    100166: part1 20
+    100168: part1 3
+    100170: part1 4
+    100172: part1 5
+    100174: part1 6
+    100176: part1 7
+    100178: part1 8
+    100180: part1 9
+    100182: part2
+    100184: part2 1
+    100186: part2 10
+    100188: part2 11
+    100190: part2 12
+    100192: part2 13
+    100194: part2 14
+    100196: part2 15
+    100198: part2 16
+    100200: part2 17
+    100202: part2 18
+    100204: part2 19
+    100206: part2 2
+    100208: part2 20
+    100210: part2 21
+    100212: part2 3
+    100214: part2 4
+    100216: part2 5
+    100218: part2 6
+    100220: part2 7
+    100222: part2 8
+    100224: part2 9
+    100226: part3
+    100228: part3 1
+    100230: part3 2
+    100232: part3 3
+    100234: part3 4
+    100236: part3 5
+    100238: part3 6
+    100240: part3 7
+    100242: part3 8
+    100244: part3 9
+    100246: polySurface1
+    100248: polySurface11
+    100250: polySurface12
+    100252: polySurface4
+    100254: polySurface5
+    100256: polySurface8
+    100258: RArm
+    100260: RArm 1
+    100262: RArm 2
+    100264: Reference
+    100266: RightArm
+    100268: RightForeArm
+    100270: RightHand
+    100272: RightShoulder
+    100274: Robot24_Rarm
+    100276: Robot_10_Feet
+    100278: SP10
+    100280: SP24
+    100282: SP25
+    100284: Spine
+    100286: Spine1
+    100288: Spine2
+    100290: //RootNode
+    100292: Torso
+    100294: Torso 1
+    100296: Torso 2
+    100298: group1
+    100300: group3
+    100302: group4
+    100304: group5
+    100306: group6
+    100308: head 1
+    100310: leftArm
+    100312: polySurface13
+    100314: polySurface15
+    100316: polySurface17
+    100318: polySurface19
+    100320: polySurface20
+    100322: polySurface22
+    100324: polySurface24
+    100326: polySurface25
+    100328: polySurface27
+    100330: polySurface29
+    100332: polySurface30
+    100334: polySurface32
+    100336: polySurface34
+    100338: polySurface35
+    100340: polySurface37
+    100342: polySurface39
+    100344: polySurface41
+    100346: polySurface42
+    100348: polySurface44
+    100350: polySurface45
+    100352: polySurface49
+    100354: polySurface52
+    100356: polySurface53
+    100358: polySurface55
+    100360: polySurface56
+    100362: polySurface57
+    100364: reg
+    100366: rightArm
+    100368: skeleton
+    100370: Skeleton_Head.001
+    100372: GARNIK
+    100374: head 2
+    100376: head 3
+    100378: larm
+    100380: larm 1
+    100382: larm 2
+    100384: larm 3
+    100386: leg
+    100388: leg 1
+    100390: leg 2
+    100392: leg 3
+    100394: LENNOX
+    100396: MADDOX
+    100398: rarm
+    100400: rarm 1
+    100402: rarm 2
+    100404: rarm 3
+    100406: torso
+    100408: part10
+    100410: part11
+    100412: part12
+    100414: part13
+    100416: part14
+    100418: part15
+    100420: part16
+    100422: part17
+    100424: part18
+    100426: part19
+    100428: part20
+    100430: part21
+    100432: part4
+    100434: part5
+    100436: part6
+    100438: part7
+    100440: part8
+    100442: part9
+    400000: aprt1
+    400002: body
+    400004: body 1
+    400006: body 2
+    400008: group2
+    400010: Head
+    400012: head
+    400014: Head 1
+    400016: Head 2
+    400018: Hips
+    400020: joint2
+    400022: joint3
+    400024: joint4
+    400026: joint5
+    400028: LArm
+    400030: LArm 1
+    400032: LArm 2
+    400034: LeftArm
+    400036: LeftForeArm
+    400038: LeftHand
+    400040: LeftShoulder
+    400042: Leg
+    400044: Leg 1
+    400046: Leg 2
+    400048: Leg 3
+    400050: leg1
+    400052: leg1 1
+    400054: leg1 2
+    400056: leg1_1
+    400058: leg2
+    400060: leg2 1
+    400062: leg2 2
+    400064: leg2_1
+    400066: leg2_2
+    400068: leg2_3
+    400070: leg2_4
+    400072: leg2_5
+    400074: leg3
+    400076: leg3 1
+    400078: leg3 2
+    400080: leg3_1
+    400082: leg3_2
+    400084: leg3_3
+    400086: leg3_4
+    400088: leg3_5
+    400090: leg4
+    400092: leg4 1
+    400094: leg4 2
+    400096: leg4_1
+    400098: leg4_2
+    400100: leg4_3
+    400102: leg4_4
+    400104: leg4_5
+    400106: leg5
+    400108: leg5 1
+    400110: leg5 2
+    400112: leg5_1
+    400114: leg5_2
+    400116: leg5_3
+    400118: leg5_4
+    400120: leg5_5
+    400122: leg6
+    400124: leg6 1
+    400126: leg6 2
+    400128: leg6_1
+    400130: leg6_2
+    400132: leg6_3
+    400134: leg6_4
+    400136: leg6_5
+    400138: Neck
+    400140: part1
+    400142: part1 1
+    400144: part1 10
+    400146: part1 11
+    400148: part1 12
+    400150: part1 13
+    400152: part1 14
+    400154: part1 15
+    400156: part1 16
+    400158: part1 17
+    400160: part1 18
+    400162: part1 19
+    400164: part1 2
+    400166: part1 20
+    400168: part1 3
+    400170: part1 4
+    400172: part1 5
+    400174: part1 6
+    400176: part1 7
+    400178: part1 8
+    400180: part1 9
+    400182: part2
+    400184: part2 1
+    400186: part2 10
+    400188: part2 11
+    400190: part2 12
+    400192: part2 13
+    400194: part2 14
+    400196: part2 15
+    400198: part2 16
+    400200: part2 17
+    400202: part2 18
+    400204: part2 19
+    400206: part2 2
+    400208: part2 20
+    400210: part2 21
+    400212: part2 3
+    400214: part2 4
+    400216: part2 5
+    400218: part2 6
+    400220: part2 7
+    400222: part2 8
+    400224: part2 9
+    400226: part3
+    400228: part3 1
+    400230: part3 2
+    400232: part3 3
+    400234: part3 4
+    400236: part3 5
+    400238: part3 6
+    400240: part3 7
+    400242: part3 8
+    400244: part3 9
+    400246: polySurface1
+    400248: polySurface11
+    400250: polySurface12
+    400252: polySurface4
+    400254: polySurface5
+    400256: polySurface8
+    400258: RArm
+    400260: RArm 1
+    400262: RArm 2
+    400264: Reference
+    400266: RightArm
+    400268: RightForeArm
+    400270: RightHand
+    400272: RightShoulder
+    400274: Robot24_Rarm
+    400276: Robot_10_Feet
+    400278: SP10
+    400280: SP24
+    400282: SP25
+    400284: Spine
+    400286: Spine1
+    400288: Spine2
+    400290: //RootNode
+    400292: Torso
+    400294: Torso 1
+    400296: Torso 2
+    400298: group1
+    400300: group3
+    400302: group4
+    400304: group5
+    400306: group6
+    400308: head 1
+    400310: leftArm
+    400312: polySurface13
+    400314: polySurface15
+    400316: polySurface17
+    400318: polySurface19
+    400320: polySurface20
+    400322: polySurface22
+    400324: polySurface24
+    400326: polySurface25
+    400328: polySurface27
+    400330: polySurface29
+    400332: polySurface30
+    400334: polySurface32
+    400336: polySurface34
+    400338: polySurface35
+    400340: polySurface37
+    400342: polySurface39
+    400344: polySurface41
+    400346: polySurface42
+    400348: polySurface44
+    400350: polySurface45
+    400352: polySurface49
+    400354: polySurface52
+    400356: polySurface53
+    400358: polySurface55
+    400360: polySurface56
+    400362: polySurface57
+    400364: reg
+    400366: rightArm
+    400368: skeleton
+    400370: Skeleton_Head.001
+    400372: GARNIK
+    400374: head 2
+    400376: head 3
+    400378: larm
+    400380: larm 1
+    400382: larm 2
+    400384: larm 3
+    400386: leg
+    400388: leg 1
+    400390: leg 2
+    400392: leg 3
+    400394: LENNOX
+    400396: MADDOX
+    400398: rarm
+    400400: rarm 1
+    400402: rarm 2
+    400404: rarm 3
+    400406: torso
+    400408: part10
+    400410: part11
+    400412: part12
+    400414: part13
+    400416: part14
+    400418: part15
+    400420: part16
+    400422: part17
+    400424: part18
+    400426: part19
+    400428: part20
+    400430: part21
+    400432: part4
+    400434: part5
+    400436: part6
+    400438: part7
+    400440: part8
+    400442: part9
+    2300000: Robot_10_Feet
+    2300002: aprt1
+    2300004: body
+    2300006: body 1
+    2300008: body 2
+    2300010: head
+    2300012: head 1
+    2300014: head 2
+    2300016: head 3
+    2300018: part1
+    2300020: part1 1
+    2300022: part1 10
+    2300024: part1 11
+    2300026: part1 12
+    2300028: part1 13
+    2300030: part1 14
+    2300032: part1 15
+    2300034: part1 16
+    2300036: part1 17
+    2300038: part1 18
+    2300040: part1 19
+    2300042: part1 2
+    2300044: part1 20
+    2300046: part1 3
+    2300048: part1 4
+    2300050: part1 5
+    2300052: part1 6
+    2300054: part1 7
+    2300056: part1 8
+    2300058: part1 9
+    2300060: part2
+    2300062: part2 1
+    2300064: part2 10
+    2300066: part2 11
+    2300068: part2 12
+    2300070: part2 13
+    2300072: part2 14
+    2300074: part2 15
+    2300076: part2 16
+    2300078: part2 17
+    2300080: part2 18
+    2300082: part2 19
+    2300084: part2 2
+    2300086: part2 20
+    2300088: part2 21
+    2300090: part2 3
+    2300092: part2 4
+    2300094: part2 5
+    2300096: part2 6
+    2300098: part2 7
+    2300100: part2 8
+    2300102: part2 9
+    2300104: part3
+    2300106: part3 1
+    2300108: part3 2
+    2300110: part3 3
+    2300112: part3 4
+    2300114: part3 5
+    2300116: part3 6
+    2300118: part3 7
+    2300120: part3 8
+    2300122: part3 9
+    2300124: polySurface1
+    2300126: polySurface11
+    2300128: polySurface12
+    2300130: polySurface13
+    2300132: polySurface15
+    2300134: polySurface17
+    2300136: polySurface19
+    2300138: polySurface20
+    2300140: polySurface22
+    2300142: polySurface24
+    2300144: polySurface25
+    2300146: polySurface27
+    2300148: polySurface29
+    2300150: polySurface30
+    2300152: polySurface32
+    2300154: polySurface34
+    2300156: polySurface35
+    2300158: polySurface37
+    2300160: polySurface39
+    2300162: polySurface4
+    2300164: polySurface41
+    2300166: polySurface42
+    2300168: polySurface44
+    2300170: polySurface45
+    2300172: polySurface49
+    2300174: polySurface5
+    2300176: polySurface52
+    2300178: polySurface53
+    2300180: polySurface55
+    2300182: polySurface56
+    2300184: polySurface8
+    2300186: Torso
+    2300188: torso
+    2300190: Torso 1
+    2300192: Torso 2
+    3300000: Robot_10_Feet
+    3300002: aprt1
+    3300004: body
+    3300006: body 1
+    3300008: body 2
+    3300010: head
+    3300012: head 1
+    3300014: head 2
+    3300016: head 3
+    3300018: part1
+    3300020: part1 1
+    3300022: part1 10
+    3300024: part1 11
+    3300026: part1 12
+    3300028: part1 13
+    3300030: part1 14
+    3300032: part1 15
+    3300034: part1 16
+    3300036: part1 17
+    3300038: part1 18
+    3300040: part1 19
+    3300042: part1 2
+    3300044: part1 20
+    3300046: part1 3
+    3300048: part1 4
+    3300050: part1 5
+    3300052: part1 6
+    3300054: part1 7
+    3300056: part1 8
+    3300058: part1 9
+    3300060: part2
+    3300062: part2 1
+    3300064: part2 10
+    3300066: part2 11
+    3300068: part2 12
+    3300070: part2 13
+    3300072: part2 14
+    3300074: part2 15
+    3300076: part2 16
+    3300078: part2 17
+    3300080: part2 18
+    3300082: part2 19
+    3300084: part2 2
+    3300086: part2 20
+    3300088: part2 21
+    3300090: part2 3
+    3300092: part2 4
+    3300094: part2 5
+    3300096: part2 6
+    3300098: part2 7
+    3300100: part2 8
+    3300102: part2 9
+    3300104: part3
+    3300106: part3 1
+    3300108: part3 2
+    3300110: part3 3
+    3300112: part3 4
+    3300114: part3 5
+    3300116: part3 6
+    3300118: part3 7
+    3300120: part3 8
+    3300122: part3 9
+    3300124: polySurface1
+    3300126: polySurface11
+    3300128: polySurface12
+    3300130: polySurface13
+    3300132: polySurface15
+    3300134: polySurface17
+    3300136: polySurface19
+    3300138: polySurface20
+    3300140: polySurface22
+    3300142: polySurface24
+    3300144: polySurface25
+    3300146: polySurface27
+    3300148: polySurface29
+    3300150: polySurface30
+    3300152: polySurface32
+    3300154: polySurface34
+    3300156: polySurface35
+    3300158: polySurface37
+    3300160: polySurface39
+    3300162: polySurface4
+    3300164: polySurface41
+    3300166: polySurface42
+    3300168: polySurface44
+    3300170: polySurface45
+    3300172: polySurface49
+    3300174: polySurface5
+    3300176: polySurface52
+    3300178: polySurface53
+    3300180: polySurface55
+    3300182: polySurface56
+    3300184: polySurface8
+    3300186: Torso
+    3300188: torso
+    3300190: Torso 1
+    3300192: Torso 2
+    4300000: Robot_10_Feet
+    4300002: Torso
+    4300004: head
+    4300006: part1
+    4300008: part2
+    4300010: part3
+    4300012: part3
+    4300014: part1
+    4300016: part2
+    4300018: body
+    4300020: part1
+    4300022: part2
+    4300024: part3
+    4300026: part1
+    4300028: part2
+    4300030: part3
+    4300032: part1
+    4300034: part2
+    4300036: part3
+    4300038: part1
+    4300040: part2
+    4300042: part3
+    4300044: part1
+    4300046: part2
+    4300048: part3
+    4300050: part1
+    4300052: part2
+    4300054: part3
+    4300056: Torso
+    4300058: Head
+    4300060: body
+    4300062: part2
+    4300064: part1
+    4300066: part2
+    4300068: aprt1
+    4300070: part2
+    4300072: part1
+    4300074: part2
+    4300076: part1
+    4300078: part2
+    4300080: part1
+    4300082: part2
+    4300084: part1
+    4300086: polySurface1
+    4300088: polySurface5
+    4300090: polySurface4
+    4300092: polySurface8
+    4300094: polySurface12
+    4300096: polySurface11
+    4300098: Torso
+    4300100: Head
+    4300102: part1
+    4300104: part2
+    4300106: part3
+    4300108: part3
+    4300110: part1
+    4300112: part2
+    4300114: body
+    4300116: part1
+    4300118: part2
+    4300120: part1
+    4300122: part2
+    4300124: part1
+    4300126: part2
+    4300128: part1
+    4300130: part2
+    4300132: part1
+    4300134: part2
+    4300136: part1
+    4300138: part2
+    4300140: Skeleton_Head.001
+    4300142: polySurface57
+    4300144: polySurface55
+    4300146: polySurface49
+    4300148: polySurface45
+    4300150: polySurface52
+    4300152: polySurface53
+    4300154: polySurface56
+    4300156: polySurface13
+    4300158: polySurface41
+    4300160: polySurface44
+    4300162: polySurface42
+    4300164: polySurface35
+    4300166: polySurface39
+    4300168: polySurface37
+    4300170: polySurface30
+    4300172: polySurface34
+    4300174: polySurface32
+    4300176: polySurface15
+    4300178: polySurface19
+    4300180: polySurface17
+    4300182: polySurface20
+    4300184: polySurface24
+    4300186: polySurface22
+    4300188: polySurface25
+    4300190: polySurface29
+    4300192: polySurface27
+    4300194: head
+    4300196: head
+    4300198: head
+    4300200: torso
+    4300202: part4
+    4300204: part5
+    4300206: part6
+    4300208: part7
+    4300210: part8
+    4300212: part9
+    4300214: part10
+    4300216: part11
+    4300218: part12
+    4300220: part13
+    4300222: part14
+    4300224: part15
+    4300226: part16
+    4300228: part17
+    4300230: part18
+    4300232: part19
+    4300234: part20
+    4300236: part21
+    7400000: SPIdle
+    7400002: SPWalk
+    7400004: MADDOX_Right
+    7400006: MADDOX_Left
+    7400008: LENNOX_Left
+    7400010: LENNOX_Right
+    7400012: GARNIK_Left
+    7400014: GARNIK_Right
+    7400016: SPRun
+    7400018: SPDie
+    9500000: //RootNode
+    13700000: aprt1
+    13700002: body
+    13700004: body 1
+    13700006: body 2
+    13700008: Head
+    13700010: head
+    13700012: Head 1
+    13700014: part1
+    13700016: part1 1
+    13700018: part1 10
+    13700020: part1 11
+    13700022: part1 12
+    13700024: part1 13
+    13700026: part1 14
+    13700028: part1 15
+    13700030: part1 16
+    13700032: part1 17
+    13700034: part1 18
+    13700036: part1 19
+    13700038: part1 2
+    13700040: part1 20
+    13700042: part1 3
+    13700044: part1 4
+    13700046: part1 5
+    13700048: part1 6
+    13700050: part1 7
+    13700052: part1 8
+    13700054: part1 9
+    13700056: part2
+    13700058: part2 1
+    13700060: part2 10
+    13700062: part2 11
+    13700064: part2 12
+    13700066: part2 13
+    13700068: part2 14
+    13700070: part2 15
+    13700072: part2 16
+    13700074: part2 17
+    13700076: part2 18
+    13700078: part2 19
+    13700080: part2 2
+    13700082: part2 20
+    13700084: part2 21
+    13700086: part2 3
+    13700088: part2 4
+    13700090: part2 5
+    13700092: part2 6
+    13700094: part2 7
+    13700096: part2 8
+    13700098: part2 9
+    13700100: part3
+    13700102: part3 1
+    13700104: part3 2
+    13700106: part3 3
+    13700108: part3 4
+    13700110: part3 5
+    13700112: part3 6
+    13700114: part3 7
+    13700116: part3 8
+    13700118: part3 9
+    13700120: polySurface1
+    13700122: polySurface11
+    13700124: polySurface12
+    13700126: polySurface4
+    13700128: polySurface5
+    13700130: polySurface8
+    13700132: Torso
+    13700134: Torso 1
+    13700136: Torso 2
+    13700138: polySurface13
+    13700140: polySurface15
+    13700142: polySurface17
+    13700144: polySurface19
+    13700146: polySurface20
+    13700148: polySurface22
+    13700150: polySurface24
+    13700152: polySurface25
+    13700154: polySurface27
+    13700156: polySurface29
+    13700158: polySurface30
+    13700160: polySurface32
+    13700162: polySurface34
+    13700164: polySurface35
+    13700166: polySurface37
+    13700168: polySurface39
+    13700170: polySurface41
+    13700172: polySurface42
+    13700174: polySurface44
+    13700176: polySurface45
+    13700178: polySurface49
+    13700180: polySurface52
+    13700182: polySurface53
+    13700184: polySurface55
+    13700186: polySurface56
+    13700188: polySurface57
+    13700190: Skeleton_Head.001
+    13700192: head 1
+    13700194: head 2
+    13700196: head 3
+    13700198: torso
+    13700200: part10
+    13700202: part11
+    13700204: part12
+    13700206: part13
+    13700208: part14
+    13700210: part15
+    13700212: part16
+    13700214: part17
+    13700216: part18
+    13700218: part19
+    13700220: part20
+    13700222: part21
+    13700224: part4
+    13700226: part5
+    13700228: part6
+    13700230: part7
+    13700232: part8
+    13700234: part9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SPIdle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Reference
+        weight: 1
+      - path: Reference/Hips
+        weight: 1
+      - path: Reference/Hips/Leg 3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3/joint4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3/leg2_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3/leg2_4/leg2_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3/leg3_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3/leg3_4/leg3_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3/leg4_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3/leg4_4/leg4_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3/leg5_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3/leg5_4/leg5_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3/leg6_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3/leg6_4/leg6_5
+        weight: 1
+      - path: Reference/Hips/Spine
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head 2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: SP10
+        weight: 1
+      - path: SP10/head
+        weight: 1
+      - path: SP10/LArm
+        weight: 1
+      - path: SP10/LArm/part1
+        weight: 1
+      - path: SP10/LArm/part2
+        weight: 1
+      - path: SP10/LArm/part3
+        weight: 1
+      - path: SP10/Leg
+        weight: 1
+      - path: SP10/Leg/body
+        weight: 1
+      - path: SP10/Leg/leg1
+        weight: 1
+      - path: SP10/Leg/leg1/part1 4
+        weight: 1
+      - path: SP10/Leg/leg1/part2 4
+        weight: 1
+      - path: SP10/Leg/leg1/part3 4
+        weight: 1
+      - path: SP10/Leg/leg2
+        weight: 1
+      - path: SP10/Leg/leg2/part1 5
+        weight: 1
+      - path: SP10/Leg/leg2/part2 5
+        weight: 1
+      - path: SP10/Leg/leg2/part3 5
+        weight: 1
+      - path: SP10/Leg/leg3
+        weight: 1
+      - path: SP10/Leg/leg3/part1 6
+        weight: 1
+      - path: SP10/Leg/leg3/part2 6
+        weight: 1
+      - path: SP10/Leg/leg3/part3 6
+        weight: 1
+      - path: SP10/Leg/leg4
+        weight: 1
+      - path: SP10/Leg/leg4/part1 7
+        weight: 1
+      - path: SP10/Leg/leg4/part2 7
+        weight: 1
+      - path: SP10/Leg/leg4/part3 7
+        weight: 1
+      - path: SP10/Leg/leg5
+        weight: 1
+      - path: SP10/Leg/leg5/part1 8
+        weight: 1
+      - path: SP10/Leg/leg5/part2 8
+        weight: 1
+      - path: SP10/Leg/leg5/part3 8
+        weight: 1
+      - path: SP10/Leg/leg6
+        weight: 1
+      - path: SP10/Leg/leg6/part1 9
+        weight: 1
+      - path: SP10/Leg/leg6/part2 9
+        weight: 1
+      - path: SP10/Leg/leg6/part3 9
+        weight: 1
+      - path: SP10/RArm
+        weight: 1
+      - path: SP10/RArm/part1 1
+        weight: 1
+      - path: SP10/RArm/part2 1
+        weight: 1
+      - path: SP10/RArm/part3 1
+        weight: 1
+      - path: SP10/Torso
+        weight: 1
+      - path: SP24
+        weight: 1
+      - path: SP24/Head
+        weight: 1
+      - path: SP24/LArm 1
+        weight: 1
+      - path: SP24/LArm 1/part1 2
+        weight: 1
+      - path: SP24/LArm 1/part2 2
+        weight: 1
+      - path: SP24/LArm 1/part3 2
+        weight: 1
+      - path: SP24/Leg 1
+        weight: 1
+      - path: SP24/Leg 1/body 1
+        weight: 1
+      - path: SP24/Leg 1/leg1 1
+        weight: 1
+      - path: SP24/Leg 1/leg1 1/part1 10
+        weight: 1
+      - path: SP24/Leg 1/leg1 1/part2 10
+        weight: 1
+      - path: SP24/Leg 1/leg2 1
+        weight: 1
+      - path: SP24/Leg 1/leg2 1/part1 11
+        weight: 1
+      - path: SP24/Leg 1/leg2 1/part2 11
+        weight: 1
+      - path: SP24/Leg 1/leg3 1
+        weight: 1
+      - path: SP24/Leg 1/leg3 1/part1 12
+        weight: 1
+      - path: SP24/Leg 1/leg3 1/part2 12
+        weight: 1
+      - path: SP24/Leg 1/leg4 1
+        weight: 1
+      - path: SP24/Leg 1/leg4 1/part1 13
+        weight: 1
+      - path: SP24/Leg 1/leg4 1/part2 13
+        weight: 1
+      - path: SP24/Leg 1/leg5 1
+        weight: 1
+      - path: SP24/Leg 1/leg5 1/part1 14
+        weight: 1
+      - path: SP24/Leg 1/leg5 1/part2 14
+        weight: 1
+      - path: SP24/Leg 1/leg6 1
+        weight: 1
+      - path: SP24/Leg 1/leg6 1/part1 15
+        weight: 1
+      - path: SP24/Leg 1/leg6 1/part2 15
+        weight: 1
+      - path: SP24/RArm 1
+        weight: 1
+      - path: SP24/RArm 1/part1 3
+        weight: 1
+      - path: SP24/RArm 1/part2 3
+        weight: 1
+      - path: SP24/RArm 1/part3 3
+        weight: 1
+      - path: SP24/Torso 1
+        weight: 1
+      - path: SP25
+        weight: 1
+      - path: SP25/Head 1
+        weight: 1
+      - path: SP25/LArm 2
+        weight: 1
+      - path: SP25/LArm 2/polySurface1
+        weight: 1
+      - path: SP25/LArm 2/polySurface4
+        weight: 1
+      - path: SP25/LArm 2/polySurface5
+        weight: 1
+      - path: SP25/Leg 2
+        weight: 1
+      - path: SP25/Leg 2/body 2
+        weight: 1
+      - path: SP25/Leg 2/leg1 2
+        weight: 1
+      - path: SP25/Leg 2/leg1 2/part1 16
+        weight: 1
+      - path: SP25/Leg 2/leg1 2/part2 16
+        weight: 1
+      - path: SP25/Leg 2/leg2 2
+        weight: 1
+      - path: SP25/Leg 2/leg2 2/aprt1
+        weight: 1
+      - path: SP25/Leg 2/leg2 2/part2 17
+        weight: 1
+      - path: SP25/Leg 2/leg3 2
+        weight: 1
+      - path: SP25/Leg 2/leg3 2/part1 17
+        weight: 1
+      - path: SP25/Leg 2/leg3 2/part2 18
+        weight: 1
+      - path: SP25/Leg 2/leg4 2
+        weight: 1
+      - path: SP25/Leg 2/leg4 2/part1 18
+        weight: 1
+      - path: SP25/Leg 2/leg4 2/part2 19
+        weight: 1
+      - path: SP25/Leg 2/leg5 2
+        weight: 1
+      - path: SP25/Leg 2/leg5 2/part1 19
+        weight: 1
+      - path: SP25/Leg 2/leg5 2/part2 20
+        weight: 1
+      - path: SP25/Leg 2/leg6 2
+        weight: 1
+      - path: SP25/Leg 2/leg6 2/part1 20
+        weight: 1
+      - path: SP25/Leg 2/leg6 2/part2 21
+        weight: 1
+      - path: SP25/RArm 2
+        weight: 1
+      - path: SP25/RArm 2/polySurface8
+        weight: 1
+      - path: SP25/RArm 2/polySurface11
+        weight: 1
+      - path: SP25/RArm 2/polySurface12
+        weight: 1
+      - path: SP25/Torso 2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MADDOX_Right
+      takeName: Take 001
+      firstFrame: 54
+      lastFrame: 68
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Reference
+        weight: 1
+      - path: Reference/Hips
+        weight: 1
+      - path: Reference/Hips/Leg 3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3/joint4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3/leg2_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3/leg2_4/leg2_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3/leg3_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3/leg3_4/leg3_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3/leg4_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3/leg4_4/leg4_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3/leg5_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3/leg5_4/leg5_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3/leg6_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3/leg6_4/leg6_5
+        weight: 1
+      - path: Reference/Hips/Spine
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head 2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: SP10
+        weight: 1
+      - path: SP10/head
+        weight: 1
+      - path: SP10/LArm
+        weight: 1
+      - path: SP10/LArm/part1
+        weight: 1
+      - path: SP10/LArm/part2
+        weight: 1
+      - path: SP10/LArm/part3
+        weight: 1
+      - path: SP10/Leg
+        weight: 1
+      - path: SP10/Leg/body
+        weight: 1
+      - path: SP10/Leg/leg1
+        weight: 1
+      - path: SP10/Leg/leg1/part1 4
+        weight: 1
+      - path: SP10/Leg/leg1/part2 4
+        weight: 1
+      - path: SP10/Leg/leg1/part3 4
+        weight: 1
+      - path: SP10/Leg/leg2
+        weight: 1
+      - path: SP10/Leg/leg2/part1 5
+        weight: 1
+      - path: SP10/Leg/leg2/part2 5
+        weight: 1
+      - path: SP10/Leg/leg2/part3 5
+        weight: 1
+      - path: SP10/Leg/leg3
+        weight: 1
+      - path: SP10/Leg/leg3/part1 6
+        weight: 1
+      - path: SP10/Leg/leg3/part2 6
+        weight: 1
+      - path: SP10/Leg/leg3/part3 6
+        weight: 1
+      - path: SP10/Leg/leg4
+        weight: 1
+      - path: SP10/Leg/leg4/part1 7
+        weight: 1
+      - path: SP10/Leg/leg4/part2 7
+        weight: 1
+      - path: SP10/Leg/leg4/part3 7
+        weight: 1
+      - path: SP10/Leg/leg5
+        weight: 1
+      - path: SP10/Leg/leg5/part1 8
+        weight: 1
+      - path: SP10/Leg/leg5/part2 8
+        weight: 1
+      - path: SP10/Leg/leg5/part3 8
+        weight: 1
+      - path: SP10/Leg/leg6
+        weight: 1
+      - path: SP10/Leg/leg6/part1 9
+        weight: 1
+      - path: SP10/Leg/leg6/part2 9
+        weight: 1
+      - path: SP10/Leg/leg6/part3 9
+        weight: 1
+      - path: SP10/RArm
+        weight: 1
+      - path: SP10/RArm/part1 1
+        weight: 1
+      - path: SP10/RArm/part2 1
+        weight: 1
+      - path: SP10/RArm/part3 1
+        weight: 1
+      - path: SP10/Torso
+        weight: 1
+      - path: SP24
+        weight: 1
+      - path: SP24/Head
+        weight: 1
+      - path: SP24/LArm 1
+        weight: 1
+      - path: SP24/LArm 1/part1 2
+        weight: 1
+      - path: SP24/LArm 1/part2 2
+        weight: 1
+      - path: SP24/LArm 1/part3 2
+        weight: 1
+      - path: SP24/Leg 1
+        weight: 1
+      - path: SP24/Leg 1/body 1
+        weight: 1
+      - path: SP24/Leg 1/leg1 1
+        weight: 1
+      - path: SP24/Leg 1/leg1 1/part1 10
+        weight: 1
+      - path: SP24/Leg 1/leg1 1/part2 10
+        weight: 1
+      - path: SP24/Leg 1/leg2 1
+        weight: 1
+      - path: SP24/Leg 1/leg2 1/part1 11
+        weight: 1
+      - path: SP24/Leg 1/leg2 1/part2 11
+        weight: 1
+      - path: SP24/Leg 1/leg3 1
+        weight: 1
+      - path: SP24/Leg 1/leg3 1/part1 12
+        weight: 1
+      - path: SP24/Leg 1/leg3 1/part2 12
+        weight: 1
+      - path: SP24/Leg 1/leg4 1
+        weight: 1
+      - path: SP24/Leg 1/leg4 1/part1 13
+        weight: 1
+      - path: SP24/Leg 1/leg4 1/part2 13
+        weight: 1
+      - path: SP24/Leg 1/leg5 1
+        weight: 1
+      - path: SP24/Leg 1/leg5 1/part1 14
+        weight: 1
+      - path: SP24/Leg 1/leg5 1/part2 14
+        weight: 1
+      - path: SP24/Leg 1/leg6 1
+        weight: 1
+      - path: SP24/Leg 1/leg6 1/part1 15
+        weight: 1
+      - path: SP24/Leg 1/leg6 1/part2 15
+        weight: 1
+      - path: SP24/RArm 1
+        weight: 1
+      - path: SP24/RArm 1/part1 3
+        weight: 1
+      - path: SP24/RArm 1/part2 3
+        weight: 1
+      - path: SP24/RArm 1/part3 3
+        weight: 1
+      - path: SP24/Torso 1
+        weight: 1
+      - path: SP25
+        weight: 1
+      - path: SP25/Head 1
+        weight: 1
+      - path: SP25/LArm 2
+        weight: 1
+      - path: SP25/LArm 2/polySurface1
+        weight: 1
+      - path: SP25/LArm 2/polySurface4
+        weight: 1
+      - path: SP25/LArm 2/polySurface5
+        weight: 1
+      - path: SP25/Leg 2
+        weight: 1
+      - path: SP25/Leg 2/body 2
+        weight: 1
+      - path: SP25/Leg 2/leg1 2
+        weight: 1
+      - path: SP25/Leg 2/leg1 2/part1 16
+        weight: 1
+      - path: SP25/Leg 2/leg1 2/part2 16
+        weight: 1
+      - path: SP25/Leg 2/leg2 2
+        weight: 1
+      - path: SP25/Leg 2/leg2 2/aprt1
+        weight: 1
+      - path: SP25/Leg 2/leg2 2/part2 17
+        weight: 1
+      - path: SP25/Leg 2/leg3 2
+        weight: 1
+      - path: SP25/Leg 2/leg3 2/part1 17
+        weight: 1
+      - path: SP25/Leg 2/leg3 2/part2 18
+        weight: 1
+      - path: SP25/Leg 2/leg4 2
+        weight: 1
+      - path: SP25/Leg 2/leg4 2/part1 18
+        weight: 1
+      - path: SP25/Leg 2/leg4 2/part2 19
+        weight: 1
+      - path: SP25/Leg 2/leg5 2
+        weight: 1
+      - path: SP25/Leg 2/leg5 2/part1 19
+        weight: 1
+      - path: SP25/Leg 2/leg5 2/part2 20
+        weight: 1
+      - path: SP25/Leg 2/leg6 2
+        weight: 1
+      - path: SP25/Leg 2/leg6 2/part1 20
+        weight: 1
+      - path: SP25/Leg 2/leg6 2/part2 21
+        weight: 1
+      - path: SP25/RArm 2
+        weight: 1
+      - path: SP25/RArm 2/polySurface8
+        weight: 1
+      - path: SP25/RArm 2/polySurface11
+        weight: 1
+      - path: SP25/RArm 2/polySurface12
+        weight: 1
+      - path: SP25/Torso 2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MADDOX_Left
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Reference
+        weight: 1
+      - path: Reference/Hips
+        weight: 1
+      - path: Reference/Hips/Leg 3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3/joint4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3/leg2_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3/leg2_4/leg2_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3/leg3_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3/leg3_4/leg3_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3/leg4_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3/leg4_4/leg4_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3/leg5_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3/leg5_4/leg5_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3/leg6_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3/leg6_4/leg6_5
+        weight: 1
+      - path: Reference/Hips/Spine
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head 2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: SP10
+        weight: 1
+      - path: SP10/head
+        weight: 1
+      - path: SP10/LArm
+        weight: 1
+      - path: SP10/LArm/part1
+        weight: 1
+      - path: SP10/LArm/part2
+        weight: 1
+      - path: SP10/LArm/part3
+        weight: 1
+      - path: SP10/Leg
+        weight: 1
+      - path: SP10/Leg/body
+        weight: 1
+      - path: SP10/Leg/leg1
+        weight: 1
+      - path: SP10/Leg/leg1/part1 4
+        weight: 1
+      - path: SP10/Leg/leg1/part2 4
+        weight: 1
+      - path: SP10/Leg/leg1/part3 4
+        weight: 1
+      - path: SP10/Leg/leg2
+        weight: 1
+      - path: SP10/Leg/leg2/part1 5
+        weight: 1
+      - path: SP10/Leg/leg2/part2 5
+        weight: 1
+      - path: SP10/Leg/leg2/part3 5
+        weight: 1
+      - path: SP10/Leg/leg3
+        weight: 1
+      - path: SP10/Leg/leg3/part1 6
+        weight: 1
+      - path: SP10/Leg/leg3/part2 6
+        weight: 1
+      - path: SP10/Leg/leg3/part3 6
+        weight: 1
+      - path: SP10/Leg/leg4
+        weight: 1
+      - path: SP10/Leg/leg4/part1 7
+        weight: 1
+      - path: SP10/Leg/leg4/part2 7
+        weight: 1
+      - path: SP10/Leg/leg4/part3 7
+        weight: 1
+      - path: SP10/Leg/leg5
+        weight: 1
+      - path: SP10/Leg/leg5/part1 8
+        weight: 1
+      - path: SP10/Leg/leg5/part2 8
+        weight: 1
+      - path: SP10/Leg/leg5/part3 8
+        weight: 1
+      - path: SP10/Leg/leg6
+        weight: 1
+      - path: SP10/Leg/leg6/part1 9
+        weight: 1
+      - path: SP10/Leg/leg6/part2 9
+        weight: 1
+      - path: SP10/Leg/leg6/part3 9
+        weight: 1
+      - path: SP10/RArm
+        weight: 1
+      - path: SP10/RArm/part1 1
+        weight: 1
+      - path: SP10/RArm/part2 1
+        weight: 1
+      - path: SP10/RArm/part3 1
+        weight: 1
+      - path: SP10/Torso
+        weight: 1
+      - path: SP24
+        weight: 1
+      - path: SP24/Head
+        weight: 1
+      - path: SP24/LArm 1
+        weight: 1
+      - path: SP24/LArm 1/part1 2
+        weight: 1
+      - path: SP24/LArm 1/part2 2
+        weight: 1
+      - path: SP24/LArm 1/part3 2
+        weight: 1
+      - path: SP24/Leg 1
+        weight: 1
+      - path: SP24/Leg 1/body 1
+        weight: 1
+      - path: SP24/Leg 1/leg1 1
+        weight: 1
+      - path: SP24/Leg 1/leg1 1/part1 10
+        weight: 1
+      - path: SP24/Leg 1/leg1 1/part2 10
+        weight: 1
+      - path: SP24/Leg 1/leg2 1
+        weight: 1
+      - path: SP24/Leg 1/leg2 1/part1 11
+        weight: 1
+      - path: SP24/Leg 1/leg2 1/part2 11
+        weight: 1
+      - path: SP24/Leg 1/leg3 1
+        weight: 1
+      - path: SP24/Leg 1/leg3 1/part1 12
+        weight: 1
+      - path: SP24/Leg 1/leg3 1/part2 12
+        weight: 1
+      - path: SP24/Leg 1/leg4 1
+        weight: 1
+      - path: SP24/Leg 1/leg4 1/part1 13
+        weight: 1
+      - path: SP24/Leg 1/leg4 1/part2 13
+        weight: 1
+      - path: SP24/Leg 1/leg5 1
+        weight: 1
+      - path: SP24/Leg 1/leg5 1/part1 14
+        weight: 1
+      - path: SP24/Leg 1/leg5 1/part2 14
+        weight: 1
+      - path: SP24/Leg 1/leg6 1
+        weight: 1
+      - path: SP24/Leg 1/leg6 1/part1 15
+        weight: 1
+      - path: SP24/Leg 1/leg6 1/part2 15
+        weight: 1
+      - path: SP24/RArm 1
+        weight: 1
+      - path: SP24/RArm 1/part1 3
+        weight: 1
+      - path: SP24/RArm 1/part2 3
+        weight: 1
+      - path: SP24/RArm 1/part3 3
+        weight: 1
+      - path: SP24/Torso 1
+        weight: 1
+      - path: SP25
+        weight: 1
+      - path: SP25/Head 1
+        weight: 1
+      - path: SP25/LArm 2
+        weight: 1
+      - path: SP25/LArm 2/polySurface1
+        weight: 1
+      - path: SP25/LArm 2/polySurface4
+        weight: 1
+      - path: SP25/LArm 2/polySurface5
+        weight: 1
+      - path: SP25/Leg 2
+        weight: 1
+      - path: SP25/Leg 2/body 2
+        weight: 1
+      - path: SP25/Leg 2/leg1 2
+        weight: 1
+      - path: SP25/Leg 2/leg1 2/part1 16
+        weight: 1
+      - path: SP25/Leg 2/leg1 2/part2 16
+        weight: 1
+      - path: SP25/Leg 2/leg2 2
+        weight: 1
+      - path: SP25/Leg 2/leg2 2/aprt1
+        weight: 1
+      - path: SP25/Leg 2/leg2 2/part2 17
+        weight: 1
+      - path: SP25/Leg 2/leg3 2
+        weight: 1
+      - path: SP25/Leg 2/leg3 2/part1 17
+        weight: 1
+      - path: SP25/Leg 2/leg3 2/part2 18
+        weight: 1
+      - path: SP25/Leg 2/leg4 2
+        weight: 1
+      - path: SP25/Leg 2/leg4 2/part1 18
+        weight: 1
+      - path: SP25/Leg 2/leg4 2/part2 19
+        weight: 1
+      - path: SP25/Leg 2/leg5 2
+        weight: 1
+      - path: SP25/Leg 2/leg5 2/part1 19
+        weight: 1
+      - path: SP25/Leg 2/leg5 2/part2 20
+        weight: 1
+      - path: SP25/Leg 2/leg6 2
+        weight: 1
+      - path: SP25/Leg 2/leg6 2/part1 20
+        weight: 1
+      - path: SP25/Leg 2/leg6 2/part2 21
+        weight: 1
+      - path: SP25/RArm 2
+        weight: 1
+      - path: SP25/RArm 2/polySurface8
+        weight: 1
+      - path: SP25/RArm 2/polySurface11
+        weight: 1
+      - path: SP25/RArm 2/polySurface12
+        weight: 1
+      - path: SP25/Torso 2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LENNOX_Left
+      takeName: Take 001
+      firstFrame: 84
+      lastFrame: 94
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Reference
+        weight: 1
+      - path: Reference/Hips
+        weight: 1
+      - path: Reference/Hips/Leg 3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3/joint4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3/leg2_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3/leg2_4/leg2_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3/leg3_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3/leg3_4/leg3_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3/leg4_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3/leg4_4/leg4_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3/leg5_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3/leg5_4/leg5_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3/leg6_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3/leg6_4/leg6_5
+        weight: 1
+      - path: Reference/Hips/Spine
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head 2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: SP10
+        weight: 1
+      - path: SP10/head
+        weight: 1
+      - path: SP10/LArm
+        weight: 1
+      - path: SP10/LArm/part1
+        weight: 1
+      - path: SP10/LArm/part2
+        weight: 1
+      - path: SP10/LArm/part3
+        weight: 1
+      - path: SP10/Leg
+        weight: 1
+      - path: SP10/Leg/body
+        weight: 1
+      - path: SP10/Leg/leg1
+        weight: 1
+      - path: SP10/Leg/leg1/part1 4
+        weight: 1
+      - path: SP10/Leg/leg1/part2 4
+        weight: 1
+      - path: SP10/Leg/leg1/part3 4
+        weight: 1
+      - path: SP10/Leg/leg2
+        weight: 1
+      - path: SP10/Leg/leg2/part1 5
+        weight: 1
+      - path: SP10/Leg/leg2/part2 5
+        weight: 1
+      - path: SP10/Leg/leg2/part3 5
+        weight: 1
+      - path: SP10/Leg/leg3
+        weight: 1
+      - path: SP10/Leg/leg3/part1 6
+        weight: 1
+      - path: SP10/Leg/leg3/part2 6
+        weight: 1
+      - path: SP10/Leg/leg3/part3 6
+        weight: 1
+      - path: SP10/Leg/leg4
+        weight: 1
+      - path: SP10/Leg/leg4/part1 7
+        weight: 1
+      - path: SP10/Leg/leg4/part2 7
+        weight: 1
+      - path: SP10/Leg/leg4/part3 7
+        weight: 1
+      - path: SP10/Leg/leg5
+        weight: 1
+      - path: SP10/Leg/leg5/part1 8
+        weight: 1
+      - path: SP10/Leg/leg5/part2 8
+        weight: 1
+      - path: SP10/Leg/leg5/part3 8
+        weight: 1
+      - path: SP10/Leg/leg6
+        weight: 1
+      - path: SP10/Leg/leg6/part1 9
+        weight: 1
+      - path: SP10/Leg/leg6/part2 9
+        weight: 1
+      - path: SP10/Leg/leg6/part3 9
+        weight: 1
+      - path: SP10/RArm
+        weight: 1
+      - path: SP10/RArm/part1 1
+        weight: 1
+      - path: SP10/RArm/part2 1
+        weight: 1
+      - path: SP10/RArm/part3 1
+        weight: 1
+      - path: SP10/Torso
+        weight: 1
+      - path: SP24
+        weight: 1
+      - path: SP24/Head
+        weight: 1
+      - path: SP24/LArm 1
+        weight: 1
+      - path: SP24/LArm 1/part1 2
+        weight: 1
+      - path: SP24/LArm 1/part2 2
+        weight: 1
+      - path: SP24/LArm 1/part3 2
+        weight: 1
+      - path: SP24/Leg 1
+        weight: 1
+      - path: SP24/Leg 1/body 1
+        weight: 1
+      - path: SP24/Leg 1/leg1 1
+        weight: 1
+      - path: SP24/Leg 1/leg1 1/part1 10
+        weight: 1
+      - path: SP24/Leg 1/leg1 1/part2 10
+        weight: 1
+      - path: SP24/Leg 1/leg2 1
+        weight: 1
+      - path: SP24/Leg 1/leg2 1/part1 11
+        weight: 1
+      - path: SP24/Leg 1/leg2 1/part2 11
+        weight: 1
+      - path: SP24/Leg 1/leg3 1
+        weight: 1
+      - path: SP24/Leg 1/leg3 1/part1 12
+        weight: 1
+      - path: SP24/Leg 1/leg3 1/part2 12
+        weight: 1
+      - path: SP24/Leg 1/leg4 1
+        weight: 1
+      - path: SP24/Leg 1/leg4 1/part1 13
+        weight: 1
+      - path: SP24/Leg 1/leg4 1/part2 13
+        weight: 1
+      - path: SP24/Leg 1/leg5 1
+        weight: 1
+      - path: SP24/Leg 1/leg5 1/part1 14
+        weight: 1
+      - path: SP24/Leg 1/leg5 1/part2 14
+        weight: 1
+      - path: SP24/Leg 1/leg6 1
+        weight: 1
+      - path: SP24/Leg 1/leg6 1/part1 15
+        weight: 1
+      - path: SP24/Leg 1/leg6 1/part2 15
+        weight: 1
+      - path: SP24/RArm 1
+        weight: 1
+      - path: SP24/RArm 1/part1 3
+        weight: 1
+      - path: SP24/RArm 1/part2 3
+        weight: 1
+      - path: SP24/RArm 1/part3 3
+        weight: 1
+      - path: SP24/Torso 1
+        weight: 1
+      - path: SP25
+        weight: 1
+      - path: SP25/Head 1
+        weight: 1
+      - path: SP25/LArm 2
+        weight: 1
+      - path: SP25/LArm 2/polySurface1
+        weight: 1
+      - path: SP25/LArm 2/polySurface4
+        weight: 1
+      - path: SP25/LArm 2/polySurface5
+        weight: 1
+      - path: SP25/Leg 2
+        weight: 1
+      - path: SP25/Leg 2/body 2
+        weight: 1
+      - path: SP25/Leg 2/leg1 2
+        weight: 1
+      - path: SP25/Leg 2/leg1 2/part1 16
+        weight: 1
+      - path: SP25/Leg 2/leg1 2/part2 16
+        weight: 1
+      - path: SP25/Leg 2/leg2 2
+        weight: 1
+      - path: SP25/Leg 2/leg2 2/aprt1
+        weight: 1
+      - path: SP25/Leg 2/leg2 2/part2 17
+        weight: 1
+      - path: SP25/Leg 2/leg3 2
+        weight: 1
+      - path: SP25/Leg 2/leg3 2/part1 17
+        weight: 1
+      - path: SP25/Leg 2/leg3 2/part2 18
+        weight: 1
+      - path: SP25/Leg 2/leg4 2
+        weight: 1
+      - path: SP25/Leg 2/leg4 2/part1 18
+        weight: 1
+      - path: SP25/Leg 2/leg4 2/part2 19
+        weight: 1
+      - path: SP25/Leg 2/leg5 2
+        weight: 1
+      - path: SP25/Leg 2/leg5 2/part1 19
+        weight: 1
+      - path: SP25/Leg 2/leg5 2/part2 20
+        weight: 1
+      - path: SP25/Leg 2/leg6 2
+        weight: 1
+      - path: SP25/Leg 2/leg6 2/part1 20
+        weight: 1
+      - path: SP25/Leg 2/leg6 2/part2 21
+        weight: 1
+      - path: SP25/RArm 2
+        weight: 1
+      - path: SP25/RArm 2/polySurface8
+        weight: 1
+      - path: SP25/RArm 2/polySurface11
+        weight: 1
+      - path: SP25/RArm 2/polySurface12
+        weight: 1
+      - path: SP25/Torso 2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LENNOX_Right
+      takeName: Take 001
+      firstFrame: 98
+      lastFrame: 112
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Reference
+        weight: 1
+      - path: Reference/Hips
+        weight: 1
+      - path: Reference/Hips/Leg 3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3/joint4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3/leg2_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3/leg2_4/leg2_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3/leg3_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3/leg3_4/leg3_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3/leg4_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3/leg4_4/leg4_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3/leg5_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3/leg5_4/leg5_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3/leg6_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3/leg6_4/leg6_5
+        weight: 1
+      - path: Reference/Hips/Spine
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head 2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: SP10
+        weight: 1
+      - path: SP10/head
+        weight: 1
+      - path: SP10/LArm
+        weight: 1
+      - path: SP10/LArm/part1
+        weight: 1
+      - path: SP10/LArm/part2
+        weight: 1
+      - path: SP10/LArm/part3
+        weight: 1
+      - path: SP10/Leg
+        weight: 1
+      - path: SP10/Leg/body
+        weight: 1
+      - path: SP10/Leg/leg1
+        weight: 1
+      - path: SP10/Leg/leg1/part1 4
+        weight: 1
+      - path: SP10/Leg/leg1/part2 4
+        weight: 1
+      - path: SP10/Leg/leg1/part3 4
+        weight: 1
+      - path: SP10/Leg/leg2
+        weight: 1
+      - path: SP10/Leg/leg2/part1 5
+        weight: 1
+      - path: SP10/Leg/leg2/part2 5
+        weight: 1
+      - path: SP10/Leg/leg2/part3 5
+        weight: 1
+      - path: SP10/Leg/leg3
+        weight: 1
+      - path: SP10/Leg/leg3/part1 6
+        weight: 1
+      - path: SP10/Leg/leg3/part2 6
+        weight: 1
+      - path: SP10/Leg/leg3/part3 6
+        weight: 1
+      - path: SP10/Leg/leg4
+        weight: 1
+      - path: SP10/Leg/leg4/part1 7
+        weight: 1
+      - path: SP10/Leg/leg4/part2 7
+        weight: 1
+      - path: SP10/Leg/leg4/part3 7
+        weight: 1
+      - path: SP10/Leg/leg5
+        weight: 1
+      - path: SP10/Leg/leg5/part1 8
+        weight: 1
+      - path: SP10/Leg/leg5/part2 8
+        weight: 1
+      - path: SP10/Leg/leg5/part3 8
+        weight: 1
+      - path: SP10/Leg/leg6
+        weight: 1
+      - path: SP10/Leg/leg6/part1 9
+        weight: 1
+      - path: SP10/Leg/leg6/part2 9
+        weight: 1
+      - path: SP10/Leg/leg6/part3 9
+        weight: 1
+      - path: SP10/RArm
+        weight: 1
+      - path: SP10/RArm/part1 1
+        weight: 1
+      - path: SP10/RArm/part2 1
+        weight: 1
+      - path: SP10/RArm/part3 1
+        weight: 1
+      - path: SP10/Torso
+        weight: 1
+      - path: SP24
+        weight: 1
+      - path: SP24/Head
+        weight: 1
+      - path: SP24/LArm 1
+        weight: 1
+      - path: SP24/LArm 1/part1 2
+        weight: 1
+      - path: SP24/LArm 1/part2 2
+        weight: 1
+      - path: SP24/LArm 1/part3 2
+        weight: 1
+      - path: SP24/Leg 1
+        weight: 1
+      - path: SP24/Leg 1/body 1
+        weight: 1
+      - path: SP24/Leg 1/leg1 1
+        weight: 1
+      - path: SP24/Leg 1/leg1 1/part1 10
+        weight: 1
+      - path: SP24/Leg 1/leg1 1/part2 10
+        weight: 1
+      - path: SP24/Leg 1/leg2 1
+        weight: 1
+      - path: SP24/Leg 1/leg2 1/part1 11
+        weight: 1
+      - path: SP24/Leg 1/leg2 1/part2 11
+        weight: 1
+      - path: SP24/Leg 1/leg3 1
+        weight: 1
+      - path: SP24/Leg 1/leg3 1/part1 12
+        weight: 1
+      - path: SP24/Leg 1/leg3 1/part2 12
+        weight: 1
+      - path: SP24/Leg 1/leg4 1
+        weight: 1
+      - path: SP24/Leg 1/leg4 1/part1 13
+        weight: 1
+      - path: SP24/Leg 1/leg4 1/part2 13
+        weight: 1
+      - path: SP24/Leg 1/leg5 1
+        weight: 1
+      - path: SP24/Leg 1/leg5 1/part1 14
+        weight: 1
+      - path: SP24/Leg 1/leg5 1/part2 14
+        weight: 1
+      - path: SP24/Leg 1/leg6 1
+        weight: 1
+      - path: SP24/Leg 1/leg6 1/part1 15
+        weight: 1
+      - path: SP24/Leg 1/leg6 1/part2 15
+        weight: 1
+      - path: SP24/RArm 1
+        weight: 1
+      - path: SP24/RArm 1/part1 3
+        weight: 1
+      - path: SP24/RArm 1/part2 3
+        weight: 1
+      - path: SP24/RArm 1/part3 3
+        weight: 1
+      - path: SP24/Torso 1
+        weight: 1
+      - path: SP25
+        weight: 1
+      - path: SP25/Head 1
+        weight: 1
+      - path: SP25/LArm 2
+        weight: 1
+      - path: SP25/LArm 2/polySurface1
+        weight: 1
+      - path: SP25/LArm 2/polySurface4
+        weight: 1
+      - path: SP25/LArm 2/polySurface5
+        weight: 1
+      - path: SP25/Leg 2
+        weight: 1
+      - path: SP25/Leg 2/body 2
+        weight: 1
+      - path: SP25/Leg 2/leg1 2
+        weight: 1
+      - path: SP25/Leg 2/leg1 2/part1 16
+        weight: 1
+      - path: SP25/Leg 2/leg1 2/part2 16
+        weight: 1
+      - path: SP25/Leg 2/leg2 2
+        weight: 1
+      - path: SP25/Leg 2/leg2 2/aprt1
+        weight: 1
+      - path: SP25/Leg 2/leg2 2/part2 17
+        weight: 1
+      - path: SP25/Leg 2/leg3 2
+        weight: 1
+      - path: SP25/Leg 2/leg3 2/part1 17
+        weight: 1
+      - path: SP25/Leg 2/leg3 2/part2 18
+        weight: 1
+      - path: SP25/Leg 2/leg4 2
+        weight: 1
+      - path: SP25/Leg 2/leg4 2/part1 18
+        weight: 1
+      - path: SP25/Leg 2/leg4 2/part2 19
+        weight: 1
+      - path: SP25/Leg 2/leg5 2
+        weight: 1
+      - path: SP25/Leg 2/leg5 2/part1 19
+        weight: 1
+      - path: SP25/Leg 2/leg5 2/part2 20
+        weight: 1
+      - path: SP25/Leg 2/leg6 2
+        weight: 1
+      - path: SP25/Leg 2/leg6 2/part1 20
+        weight: 1
+      - path: SP25/Leg 2/leg6 2/part2 21
+        weight: 1
+      - path: SP25/RArm 2
+        weight: 1
+      - path: SP25/RArm 2/polySurface8
+        weight: 1
+      - path: SP25/RArm 2/polySurface11
+        weight: 1
+      - path: SP25/RArm 2/polySurface12
+        weight: 1
+      - path: SP25/Torso 2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GARNIK_Left
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Reference
+        weight: 1
+      - path: Reference/Hips
+        weight: 1
+      - path: Reference/Hips/Leg 3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3/joint4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3/leg2_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3/leg2_4/leg2_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3/leg3_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3/leg3_4/leg3_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3/leg4_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3/leg4_4/leg4_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3/leg5_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3/leg5_4/leg5_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3/leg6_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3/leg6_4/leg6_5
+        weight: 1
+      - path: Reference/Hips/Spine
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head 2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: SP10
+        weight: 1
+      - path: SP10/head
+        weight: 1
+      - path: SP10/LArm
+        weight: 1
+      - path: SP10/LArm/part1
+        weight: 1
+      - path: SP10/LArm/part2
+        weight: 1
+      - path: SP10/LArm/part3
+        weight: 1
+      - path: SP10/Leg
+        weight: 1
+      - path: SP10/Leg/body
+        weight: 1
+      - path: SP10/Leg/leg1
+        weight: 1
+      - path: SP10/Leg/leg1/part1 4
+        weight: 1
+      - path: SP10/Leg/leg1/part2 4
+        weight: 1
+      - path: SP10/Leg/leg1/part3 4
+        weight: 1
+      - path: SP10/Leg/leg2
+        weight: 1
+      - path: SP10/Leg/leg2/part1 5
+        weight: 1
+      - path: SP10/Leg/leg2/part2 5
+        weight: 1
+      - path: SP10/Leg/leg2/part3 5
+        weight: 1
+      - path: SP10/Leg/leg3
+        weight: 1
+      - path: SP10/Leg/leg3/part1 6
+        weight: 1
+      - path: SP10/Leg/leg3/part2 6
+        weight: 1
+      - path: SP10/Leg/leg3/part3 6
+        weight: 1
+      - path: SP10/Leg/leg4
+        weight: 1
+      - path: SP10/Leg/leg4/part1 7
+        weight: 1
+      - path: SP10/Leg/leg4/part2 7
+        weight: 1
+      - path: SP10/Leg/leg4/part3 7
+        weight: 1
+      - path: SP10/Leg/leg5
+        weight: 1
+      - path: SP10/Leg/leg5/part1 8
+        weight: 1
+      - path: SP10/Leg/leg5/part2 8
+        weight: 1
+      - path: SP10/Leg/leg5/part3 8
+        weight: 1
+      - path: SP10/Leg/leg6
+        weight: 1
+      - path: SP10/Leg/leg6/part1 9
+        weight: 1
+      - path: SP10/Leg/leg6/part2 9
+        weight: 1
+      - path: SP10/Leg/leg6/part3 9
+        weight: 1
+      - path: SP10/RArm
+        weight: 1
+      - path: SP10/RArm/part1 1
+        weight: 1
+      - path: SP10/RArm/part2 1
+        weight: 1
+      - path: SP10/RArm/part3 1
+        weight: 1
+      - path: SP10/Torso
+        weight: 1
+      - path: SP24
+        weight: 1
+      - path: SP24/Head
+        weight: 1
+      - path: SP24/LArm 1
+        weight: 1
+      - path: SP24/LArm 1/part1 2
+        weight: 1
+      - path: SP24/LArm 1/part2 2
+        weight: 1
+      - path: SP24/LArm 1/part3 2
+        weight: 1
+      - path: SP24/Leg 1
+        weight: 1
+      - path: SP24/Leg 1/body 1
+        weight: 1
+      - path: SP24/Leg 1/leg1 1
+        weight: 1
+      - path: SP24/Leg 1/leg1 1/part1 10
+        weight: 1
+      - path: SP24/Leg 1/leg1 1/part2 10
+        weight: 1
+      - path: SP24/Leg 1/leg2 1
+        weight: 1
+      - path: SP24/Leg 1/leg2 1/part1 11
+        weight: 1
+      - path: SP24/Leg 1/leg2 1/part2 11
+        weight: 1
+      - path: SP24/Leg 1/leg3 1
+        weight: 1
+      - path: SP24/Leg 1/leg3 1/part1 12
+        weight: 1
+      - path: SP24/Leg 1/leg3 1/part2 12
+        weight: 1
+      - path: SP24/Leg 1/leg4 1
+        weight: 1
+      - path: SP24/Leg 1/leg4 1/part1 13
+        weight: 1
+      - path: SP24/Leg 1/leg4 1/part2 13
+        weight: 1
+      - path: SP24/Leg 1/leg5 1
+        weight: 1
+      - path: SP24/Leg 1/leg5 1/part1 14
+        weight: 1
+      - path: SP24/Leg 1/leg5 1/part2 14
+        weight: 1
+      - path: SP24/Leg 1/leg6 1
+        weight: 1
+      - path: SP24/Leg 1/leg6 1/part1 15
+        weight: 1
+      - path: SP24/Leg 1/leg6 1/part2 15
+        weight: 1
+      - path: SP24/RArm 1
+        weight: 1
+      - path: SP24/RArm 1/part1 3
+        weight: 1
+      - path: SP24/RArm 1/part2 3
+        weight: 1
+      - path: SP24/RArm 1/part3 3
+        weight: 1
+      - path: SP24/Torso 1
+        weight: 1
+      - path: SP25
+        weight: 1
+      - path: SP25/Head 1
+        weight: 1
+      - path: SP25/LArm 2
+        weight: 1
+      - path: SP25/LArm 2/polySurface1
+        weight: 1
+      - path: SP25/LArm 2/polySurface4
+        weight: 1
+      - path: SP25/LArm 2/polySurface5
+        weight: 1
+      - path: SP25/Leg 2
+        weight: 1
+      - path: SP25/Leg 2/body 2
+        weight: 1
+      - path: SP25/Leg 2/leg1 2
+        weight: 1
+      - path: SP25/Leg 2/leg1 2/part1 16
+        weight: 1
+      - path: SP25/Leg 2/leg1 2/part2 16
+        weight: 1
+      - path: SP25/Leg 2/leg2 2
+        weight: 1
+      - path: SP25/Leg 2/leg2 2/aprt1
+        weight: 1
+      - path: SP25/Leg 2/leg2 2/part2 17
+        weight: 1
+      - path: SP25/Leg 2/leg3 2
+        weight: 1
+      - path: SP25/Leg 2/leg3 2/part1 17
+        weight: 1
+      - path: SP25/Leg 2/leg3 2/part2 18
+        weight: 1
+      - path: SP25/Leg 2/leg4 2
+        weight: 1
+      - path: SP25/Leg 2/leg4 2/part1 18
+        weight: 1
+      - path: SP25/Leg 2/leg4 2/part2 19
+        weight: 1
+      - path: SP25/Leg 2/leg5 2
+        weight: 1
+      - path: SP25/Leg 2/leg5 2/part1 19
+        weight: 1
+      - path: SP25/Leg 2/leg5 2/part2 20
+        weight: 1
+      - path: SP25/Leg 2/leg6 2
+        weight: 1
+      - path: SP25/Leg 2/leg6 2/part1 20
+        weight: 1
+      - path: SP25/Leg 2/leg6 2/part2 21
+        weight: 1
+      - path: SP25/RArm 2
+        weight: 1
+      - path: SP25/RArm 2/polySurface8
+        weight: 1
+      - path: SP25/RArm 2/polySurface11
+        weight: 1
+      - path: SP25/RArm 2/polySurface12
+        weight: 1
+      - path: SP25/Torso 2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GARNIK_Right
+      takeName: Take 001
+      firstFrame: 134
+      lastFrame: 144
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Reference
+        weight: 1
+      - path: Reference/Hips
+        weight: 1
+      - path: Reference/Hips/Leg 3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3/joint4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg1_1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3/leg2_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg2_1/leg2_2/leg2_3/leg2_4/leg2_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3/leg3_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg3_1/leg3_2/leg3_3/leg3_4/leg3_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3/leg4_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg4_1/leg4_2/leg4_3/leg4_4/leg4_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3/leg5_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg5_1/leg5_2/leg5_3/leg5_4/leg5_5
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3/leg6_4
+        weight: 1
+      - path: Reference/Hips/Leg 3/leg6_1/leg6_2/leg6_3/leg6_4/leg6_5
+        weight: 1
+      - path: Reference/Hips/Spine
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head 2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: SP10
+        weight: 1
+      - path: SP10/head
+        weight: 1
+      - path: SP10/LArm
+        weight: 1
+      - path: SP10/LArm/part1
+        weight: 1
+      - path: SP10/LArm/part2
+        weight: 1
+      - path: SP10/LArm/part3
+        weight: 1
+      - path: SP10/Leg
+        weight: 1
+      - path: SP10/Leg/body
+        weight: 1
+      - path: SP10/Leg/leg1
+        weight: 1
+      - path: SP10/Leg/leg1/part1 4
+        weight: 1
+      - path: SP10/Leg/leg1/part2 4
+        weight: 1
+      - path: SP10/Leg/leg1/part3 4
+        weight: 1
+      - path: SP10/Leg/leg2
+        weight: 1
+      - path: SP10/Leg/leg2/part1 5
+        weight: 1
+      - path: SP10/Leg/leg2/part2 5
+        weight: 1
+      - path: SP10/Leg/leg2/part3 5
+        weight: 1
+      - path: SP10/Leg/leg3
+        weight: 1
+      - path: SP10/Leg/leg3/part1 6
+        weight: 1
+      - path: SP10/Leg/leg3/part2 6
+        weight: 1
+      - path: SP10/Leg/leg3/part3 6
+        weight: 1
+      - path: SP10/Leg/leg4
+        weight: 1
+      - path: SP10/Leg/leg4/part1 7
+        weight: 1
+      - path: SP10/Leg/leg4/part2 7
+        weight: 1
+      - path: SP10/Leg/leg4/part3 7
+        weight: 1
+      - path: SP10/Leg/leg5
+        weight: 1
+      - path: SP10/Leg/leg5/part1 8
+        weight: 1
+      - path: SP10/Leg/leg5/part2 8
+        weight: 1
+      - path: SP10/Leg/leg5/part3 8
+        weight: 1
+      - path: SP10/Leg/leg6
+        weight: 1
+      - path: SP10/Leg/leg6/part1 9
+        weight: 1
+      - path: SP10/Leg/leg6/part2 9
+        weight: 1
+      - path: SP10/Leg/leg6/part3 9
+        weight: 1
+      - path: SP10/RArm
+        weight: 1
+      - path: SP10/RArm/part1 1
+        weight: 1
+      - path: SP10/RArm/part2 1
+        weight: 1
+      - path: SP10/RArm/part3 1
+        weight: 1
+      - path: SP10/Torso
+        weight: 1
+      - path: SP24
+        weight: 1
+      - path: SP24/Head
+        weight: 1
+      - path: SP24/LArm 1
+        weight: 1
+      - path: SP24/LArm 1/part1 2
+        weight: 1
+      - path: SP24/LArm 1/part2 2
+        weight: 1
+      - path: SP24/LArm 1/part3 2
+        weight: 1
+      - path: SP24/Leg 1
+        weight: 1
+      - path: SP24/Leg 1/body 1
+        weight: 1
+      - path: SP24/Leg 1/leg1 1
+        weight: 1
+      - path: SP24/Leg 1/leg1 1/part1 10
+        weight: 1
+      - path: SP24/Leg 1/leg1 1/part2 10
+        weight: 1
+      - path: SP24/Leg 1/leg2 1
+        weight: 1
+      - path: SP24/Leg 1/leg2 1/part1 11
+        weight: 1
+      - path: SP24/Leg 1/leg2 1/part2 11
+        weight: 1
+      - path: SP24/Leg 1/leg3 1
+        weight: 1
+      - path: SP24/Leg 1/leg3 1/part1 12
+        weight: 1
+      - path: SP24/Leg 1/leg3 1/part2 12
+        weight: 1
+      - path: SP24/Leg 1/leg4 1
+        weight: 1
+      - path: SP24/Leg 1/leg4 1/part1 13
+        weight: 1
+      - path: SP24/Leg 1/leg4 1/part2 13
+        weight: 1
+      - path: SP24/Leg 1/leg5 1
+        weight: 1
+      - path: SP24/Leg 1/leg5 1/part1 14
+        weight: 1
+      - path: SP24/Leg 1/leg5 1/part2 14
+        weight: 1
+      - path: SP24/Leg 1/leg6 1
+        weight: 1
+      - path: SP24/Leg 1/leg6 1/part1 15
+        weight: 1
+      - path: SP24/Leg 1/leg6 1/part2 15
+        weight: 1
+      - path: SP24/RArm 1
+        weight: 1
+      - path: SP24/RArm 1/part1 3
+        weight: 1
+      - path: SP24/RArm 1/part2 3
+        weight: 1
+      - path: SP24/RArm 1/part3 3
+        weight: 1
+      - path: SP24/Torso 1
+        weight: 1
+      - path: SP25
+        weight: 1
+      - path: SP25/Head 1
+        weight: 1
+      - path: SP25/LArm 2
+        weight: 1
+      - path: SP25/LArm 2/polySurface1
+        weight: 1
+      - path: SP25/LArm 2/polySurface4
+        weight: 1
+      - path: SP25/LArm 2/polySurface5
+        weight: 1
+      - path: SP25/Leg 2
+        weight: 1
+      - path: SP25/Leg 2/body 2
+        weight: 1
+      - path: SP25/Leg 2/leg1 2
+        weight: 1
+      - path: SP25/Leg 2/leg1 2/part1 16
+        weight: 1
+      - path: SP25/Leg 2/leg1 2/part2 16
+        weight: 1
+      - path: SP25/Leg 2/leg2 2
+        weight: 1
+      - path: SP25/Leg 2/leg2 2/aprt1
+        weight: 1
+      - path: SP25/Leg 2/leg2 2/part2 17
+        weight: 1
+      - path: SP25/Leg 2/leg3 2
+        weight: 1
+      - path: SP25/Leg 2/leg3 2/part1 17
+        weight: 1
+      - path: SP25/Leg 2/leg3 2/part2 18
+        weight: 1
+      - path: SP25/Leg 2/leg4 2
+        weight: 1
+      - path: SP25/Leg 2/leg4 2/part1 18
+        weight: 1
+      - path: SP25/Leg 2/leg4 2/part2 19
+        weight: 1
+      - path: SP25/Leg 2/leg5 2
+        weight: 1
+      - path: SP25/Leg 2/leg5 2/part1 19
+        weight: 1
+      - path: SP25/Leg 2/leg5 2/part2 20
+        weight: 1
+      - path: SP25/Leg 2/leg6 2
+        weight: 1
+      - path: SP25/Leg 2/leg6 2/part1 20
+        weight: 1
+      - path: SP25/Leg 2/leg6 2/part2 21
+        weight: 1
+      - path: SP25/RArm 2
+        weight: 1
+      - path: SP25/RArm 2/polySurface8
+        weight: 1
+      - path: SP25/RArm 2/polySurface11
+        weight: 1
+      - path: SP25/RArm 2/polySurface12
+        weight: 1
+      - path: SP25/Torso 2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SPRun
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GARNIK
+        weight: 1
+      - path: GARNIK/head
+        weight: 1
+      - path: GARNIK/head/Torso
+        weight: 1
+      - path: GARNIK/larm
+        weight: 1
+      - path: GARNIK/larm/part1
+        weight: 1
+      - path: GARNIK/larm/part2
+        weight: 1
+      - path: GARNIK/larm/part3
+        weight: 1
+      - path: GARNIK/leg
+        weight: 1
+      - path: GARNIK/leg/body
+        weight: 1
+      - path: GARNIK/leg/leg1
+        weight: 1
+      - path: GARNIK/leg/leg1/part1 4
+        weight: 1
+      - path: GARNIK/leg/leg1/part2 4
+        weight: 1
+      - path: GARNIK/leg/leg2
+        weight: 1
+      - path: GARNIK/leg/leg2/part1 5
+        weight: 1
+      - path: GARNIK/leg/leg2/part2 5
+        weight: 1
+      - path: GARNIK/leg/leg3
+        weight: 1
+      - path: GARNIK/leg/leg3/part1 6
+        weight: 1
+      - path: GARNIK/leg/leg3/part2 6
+        weight: 1
+      - path: GARNIK/leg/leg4
+        weight: 1
+      - path: GARNIK/leg/leg4/part1 7
+        weight: 1
+      - path: GARNIK/leg/leg4/part2 7
+        weight: 1
+      - path: GARNIK/leg/leg5
+        weight: 1
+      - path: GARNIK/leg/leg5/part1 8
+        weight: 1
+      - path: GARNIK/leg/leg5/part2 8
+        weight: 1
+      - path: GARNIK/leg/leg6
+        weight: 1
+      - path: GARNIK/leg/leg6/part1 9
+        weight: 1
+      - path: GARNIK/leg/leg6/part2 9
+        weight: 1
+      - path: GARNIK/rarm
+        weight: 1
+      - path: GARNIK/rarm/part1 1
+        weight: 1
+      - path: GARNIK/rarm/part2 1
+        weight: 1
+      - path: GARNIK/rarm/part3 1
+        weight: 1
+      - path: LENNOX
+        weight: 1
+      - path: LENNOX/head 1
+        weight: 1
+      - path: LENNOX/head 1/Torso 1
+        weight: 1
+      - path: LENNOX/larm 1
+        weight: 1
+      - path: LENNOX/larm 1/polySurface1
+        weight: 1
+      - path: LENNOX/larm 1/polySurface4
+        weight: 1
+      - path: LENNOX/larm 1/polySurface5
+        weight: 1
+      - path: LENNOX/leg 1
+        weight: 1
+      - path: LENNOX/leg 1/body 1
+        weight: 1
+      - path: LENNOX/leg 1/leg1 1
+        weight: 1
+      - path: LENNOX/leg 1/leg1 1/part1 10
+        weight: 1
+      - path: LENNOX/leg 1/leg1 1/part2 10
+        weight: 1
+      - path: LENNOX/leg 1/leg2 1
+        weight: 1
+      - path: LENNOX/leg 1/leg2 1/aprt1
+        weight: 1
+      - path: LENNOX/leg 1/leg2 1/part2 11
+        weight: 1
+      - path: LENNOX/leg 1/leg3 1
+        weight: 1
+      - path: LENNOX/leg 1/leg3 1/part1 11
+        weight: 1
+      - path: LENNOX/leg 1/leg3 1/part2 12
+        weight: 1
+      - path: LENNOX/leg 1/leg4 1
+        weight: 1
+      - path: LENNOX/leg 1/leg4 1/part1 12
+        weight: 1
+      - path: LENNOX/leg 1/leg4 1/part2 13
+        weight: 1
+      - path: LENNOX/leg 1/leg5 1
+        weight: 1
+      - path: LENNOX/leg 1/leg5 1/part1 13
+        weight: 1
+      - path: LENNOX/leg 1/leg5 1/part2 14
+        weight: 1
+      - path: LENNOX/leg 1/leg6 1
+        weight: 1
+      - path: LENNOX/leg 1/leg6 1/part1 14
+        weight: 1
+      - path: LENNOX/leg 1/leg6 1/part2 15
+        weight: 1
+      - path: LENNOX/rarm 1
+        weight: 1
+      - path: LENNOX/rarm 1/polySurface8
+        weight: 1
+      - path: LENNOX/rarm 1/polySurface11
+        weight: 1
+      - path: LENNOX/rarm 1/polySurface12
+        weight: 1
+      - path: MADDOX
+        weight: 1
+      - path: MADDOX/head 2
+        weight: 1
+      - path: MADDOX/head 2/Torso 2
+        weight: 1
+      - path: MADDOX/larm 2
+        weight: 1
+      - path: MADDOX/larm 2/part1 2
+        weight: 1
+      - path: MADDOX/larm 2/part2 2
+        weight: 1
+      - path: MADDOX/larm 2/part3 2
+        weight: 1
+      - path: MADDOX/leg 2
+        weight: 1
+      - path: MADDOX/leg 2/body 2
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2/part1 15
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2/part2 16
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2/part3 4
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2/part4
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2/part5
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2/part6
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2/part1 16
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2/part2 17
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2/part3 5
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2/part7
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2/part8
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2/part9
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2/part1 17
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2/part2 18
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2/part3 6
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2/part10
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2/part11
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2/part12
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2/part1 18
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2/part2 19
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2/part3 7
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2/part13
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2/part14
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2/part15
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2/part1 19
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2/part2 20
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2/part3 8
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2/part16
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2/part17
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2/part18
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2/part1 20
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2/part2 21
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2/part3 9
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2/part19
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2/part20
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2/part21
+        weight: 1
+      - path: MADDOX/rarm 2
+        weight: 1
+      - path: MADDOX/rarm 2/part1 3
+        weight: 1
+      - path: MADDOX/rarm 2/part2 3
+        weight: 1
+      - path: MADDOX/rarm 2/part3 3
+        weight: 1
+      - path: Reference
+        weight: 1
+      - path: Reference/Hips
+        weight: 1
+      - path: Reference/Hips/Leg
+        weight: 1
+      - path: Reference/Hips/Leg/leg1_1
+        weight: 1
+      - path: Reference/Hips/Leg/leg1_1/joint2
+        weight: 1
+      - path: Reference/Hips/Leg/leg1_1/joint2/joint3
+        weight: 1
+      - path: Reference/Hips/Leg/leg1_1/joint2/joint3/joint4
+        weight: 1
+      - path: Reference/Hips/Leg/leg1_1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Reference/Hips/Leg/leg2_1
+        weight: 1
+      - path: Reference/Hips/Leg/leg2_1/leg2_2
+        weight: 1
+      - path: Reference/Hips/Leg/leg2_1/leg2_2/leg2_3
+        weight: 1
+      - path: Reference/Hips/Leg/leg2_1/leg2_2/leg2_3/leg2_4
+        weight: 1
+      - path: Reference/Hips/Leg/leg2_1/leg2_2/leg2_3/leg2_4/leg2_5
+        weight: 1
+      - path: Reference/Hips/Leg/leg3_1
+        weight: 1
+      - path: Reference/Hips/Leg/leg3_1/leg3_2
+        weight: 1
+      - path: Reference/Hips/Leg/leg3_1/leg3_2/leg3_3
+        weight: 1
+      - path: Reference/Hips/Leg/leg3_1/leg3_2/leg3_3/leg3_4
+        weight: 1
+      - path: Reference/Hips/Leg/leg3_1/leg3_2/leg3_3/leg3_4/leg3_5
+        weight: 1
+      - path: Reference/Hips/Leg/leg4_1
+        weight: 1
+      - path: Reference/Hips/Leg/leg4_1/leg4_2
+        weight: 1
+      - path: Reference/Hips/Leg/leg4_1/leg4_2/leg4_3
+        weight: 1
+      - path: Reference/Hips/Leg/leg4_1/leg4_2/leg4_3/leg4_4
+        weight: 1
+      - path: Reference/Hips/Leg/leg4_1/leg4_2/leg4_3/leg4_4/leg4_5
+        weight: 1
+      - path: Reference/Hips/Leg/leg5_1
+        weight: 1
+      - path: Reference/Hips/Leg/leg5_1/leg5_2
+        weight: 1
+      - path: Reference/Hips/Leg/leg5_1/leg5_2/leg5_3
+        weight: 1
+      - path: Reference/Hips/Leg/leg5_1/leg5_2/leg5_3/leg5_4
+        weight: 1
+      - path: Reference/Hips/Leg/leg5_1/leg5_2/leg5_3/leg5_4/leg5_5
+        weight: 1
+      - path: Reference/Hips/Leg/leg6_1
+        weight: 1
+      - path: Reference/Hips/Leg/leg6_1/leg6_2
+        weight: 1
+      - path: Reference/Hips/Leg/leg6_1/leg6_2/leg6_3
+        weight: 1
+      - path: Reference/Hips/Leg/leg6_1/leg6_2/leg6_3/leg6_4
+        weight: 1
+      - path: Reference/Hips/Leg/leg6_1/leg6_2/leg6_3/leg6_4/leg6_5
+        weight: 1
+      - path: Reference/Hips/Spine
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: skeleton
+        weight: 1
+      - path: skeleton/head 3
+        weight: 1
+      - path: skeleton/head 3/torso
+        weight: 1
+      - path: skeleton/larm 3
+        weight: 1
+      - path: skeleton/larm 3/polySurface45
+        weight: 1
+      - path: skeleton/larm 3/polySurface49
+        weight: 1
+      - path: skeleton/larm 3/polySurface55
+        weight: 1
+      - path: skeleton/leg 3
+        weight: 1
+      - path: skeleton/leg 3/group1
+        weight: 1
+      - path: skeleton/leg 3/group1/polySurface41
+        weight: 1
+      - path: skeleton/leg 3/group1/polySurface42
+        weight: 1
+      - path: skeleton/leg 3/group1/polySurface44
+        weight: 1
+      - path: skeleton/leg 3/group2
+        weight: 1
+      - path: skeleton/leg 3/group2/polySurface35
+        weight: 1
+      - path: skeleton/leg 3/group2/polySurface37
+        weight: 1
+      - path: skeleton/leg 3/group2/polySurface39
+        weight: 1
+      - path: skeleton/leg 3/group3
+        weight: 1
+      - path: skeleton/leg 3/group3/polySurface30
+        weight: 1
+      - path: skeleton/leg 3/group3/polySurface32
+        weight: 1
+      - path: skeleton/leg 3/group3/polySurface34
+        weight: 1
+      - path: skeleton/leg 3/group4
+        weight: 1
+      - path: skeleton/leg 3/group4/polySurface15
+        weight: 1
+      - path: skeleton/leg 3/group4/polySurface17
+        weight: 1
+      - path: skeleton/leg 3/group4/polySurface19
+        weight: 1
+      - path: skeleton/leg 3/group5
+        weight: 1
+      - path: skeleton/leg 3/group5/polySurface20
+        weight: 1
+      - path: skeleton/leg 3/group5/polySurface22
+        weight: 1
+      - path: skeleton/leg 3/group5/polySurface24
+        weight: 1
+      - path: skeleton/leg 3/group6
+        weight: 1
+      - path: skeleton/leg 3/group6/polySurface25
+        weight: 1
+      - path: skeleton/leg 3/group6/polySurface27
+        weight: 1
+      - path: skeleton/leg 3/group6/polySurface29
+        weight: 1
+      - path: skeleton/leg 3/polySurface13
+        weight: 1
+      - path: skeleton/rarm 3
+        weight: 1
+      - path: skeleton/rarm 3/polySurface52
+        weight: 1
+      - path: skeleton/rarm 3/polySurface53
+        weight: 1
+      - path: skeleton/rarm 3/polySurface56
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SPWalk
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GARNIK
+        weight: 1
+      - path: GARNIK/head
+        weight: 1
+      - path: GARNIK/head/Torso
+        weight: 1
+      - path: GARNIK/larm
+        weight: 1
+      - path: GARNIK/larm/part1
+        weight: 1
+      - path: GARNIK/larm/part2
+        weight: 1
+      - path: GARNIK/larm/part3
+        weight: 1
+      - path: GARNIK/leg
+        weight: 1
+      - path: GARNIK/leg/body
+        weight: 1
+      - path: GARNIK/leg/leg1
+        weight: 1
+      - path: GARNIK/leg/leg1/part1 4
+        weight: 1
+      - path: GARNIK/leg/leg1/part2 4
+        weight: 1
+      - path: GARNIK/leg/leg2
+        weight: 1
+      - path: GARNIK/leg/leg2/part1 5
+        weight: 1
+      - path: GARNIK/leg/leg2/part2 5
+        weight: 1
+      - path: GARNIK/leg/leg3
+        weight: 1
+      - path: GARNIK/leg/leg3/part1 6
+        weight: 1
+      - path: GARNIK/leg/leg3/part2 6
+        weight: 1
+      - path: GARNIK/leg/leg4
+        weight: 1
+      - path: GARNIK/leg/leg4/part1 7
+        weight: 1
+      - path: GARNIK/leg/leg4/part2 7
+        weight: 1
+      - path: GARNIK/leg/leg5
+        weight: 1
+      - path: GARNIK/leg/leg5/part1 8
+        weight: 1
+      - path: GARNIK/leg/leg5/part2 8
+        weight: 1
+      - path: GARNIK/leg/leg6
+        weight: 1
+      - path: GARNIK/leg/leg6/part1 9
+        weight: 1
+      - path: GARNIK/leg/leg6/part2 9
+        weight: 1
+      - path: GARNIK/rarm
+        weight: 1
+      - path: GARNIK/rarm/part1 1
+        weight: 1
+      - path: GARNIK/rarm/part2 1
+        weight: 1
+      - path: GARNIK/rarm/part3 1
+        weight: 1
+      - path: LENNOX
+        weight: 1
+      - path: LENNOX/head 1
+        weight: 1
+      - path: LENNOX/head 1/Torso 1
+        weight: 1
+      - path: LENNOX/larm 1
+        weight: 1
+      - path: LENNOX/larm 1/polySurface1
+        weight: 1
+      - path: LENNOX/larm 1/polySurface4
+        weight: 1
+      - path: LENNOX/larm 1/polySurface5
+        weight: 1
+      - path: LENNOX/leg 1
+        weight: 1
+      - path: LENNOX/leg 1/body 1
+        weight: 1
+      - path: LENNOX/leg 1/leg1 1
+        weight: 1
+      - path: LENNOX/leg 1/leg1 1/part1 10
+        weight: 1
+      - path: LENNOX/leg 1/leg1 1/part2 10
+        weight: 1
+      - path: LENNOX/leg 1/leg2 1
+        weight: 1
+      - path: LENNOX/leg 1/leg2 1/aprt1
+        weight: 1
+      - path: LENNOX/leg 1/leg2 1/part2 11
+        weight: 1
+      - path: LENNOX/leg 1/leg3 1
+        weight: 1
+      - path: LENNOX/leg 1/leg3 1/part1 11
+        weight: 1
+      - path: LENNOX/leg 1/leg3 1/part2 12
+        weight: 1
+      - path: LENNOX/leg 1/leg4 1
+        weight: 1
+      - path: LENNOX/leg 1/leg4 1/part1 12
+        weight: 1
+      - path: LENNOX/leg 1/leg4 1/part2 13
+        weight: 1
+      - path: LENNOX/leg 1/leg5 1
+        weight: 1
+      - path: LENNOX/leg 1/leg5 1/part1 13
+        weight: 1
+      - path: LENNOX/leg 1/leg5 1/part2 14
+        weight: 1
+      - path: LENNOX/leg 1/leg6 1
+        weight: 1
+      - path: LENNOX/leg 1/leg6 1/part1 14
+        weight: 1
+      - path: LENNOX/leg 1/leg6 1/part2 15
+        weight: 1
+      - path: LENNOX/rarm 1
+        weight: 1
+      - path: LENNOX/rarm 1/polySurface8
+        weight: 1
+      - path: LENNOX/rarm 1/polySurface11
+        weight: 1
+      - path: LENNOX/rarm 1/polySurface12
+        weight: 1
+      - path: MADDOX
+        weight: 1
+      - path: MADDOX/head 2
+        weight: 1
+      - path: MADDOX/head 2/Torso 2
+        weight: 1
+      - path: MADDOX/larm 2
+        weight: 1
+      - path: MADDOX/larm 2/part1 2
+        weight: 1
+      - path: MADDOX/larm 2/part2 2
+        weight: 1
+      - path: MADDOX/larm 2/part3 2
+        weight: 1
+      - path: MADDOX/leg 2
+        weight: 1
+      - path: MADDOX/leg 2/body 2
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2/part1 15
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2/part2 16
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2/part3 4
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2/part4
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2/part5
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2/part6
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2/part1 16
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2/part2 17
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2/part3 5
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2/part7
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2/part8
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2/part9
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2/part1 17
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2/part2 18
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2/part3 6
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2/part10
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2/part11
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2/part12
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2/part1 18
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2/part2 19
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2/part3 7
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2/part13
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2/part14
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2/part15
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2/part1 19
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2/part2 20
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2/part3 8
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2/part16
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2/part17
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2/part18
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2/part1 20
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2/part2 21
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2/part3 9
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2/part19
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2/part20
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2/part21
+        weight: 1
+      - path: MADDOX/rarm 2
+        weight: 1
+      - path: MADDOX/rarm 2/part1 3
+        weight: 1
+      - path: MADDOX/rarm 2/part2 3
+        weight: 1
+      - path: MADDOX/rarm 2/part3 3
+        weight: 1
+      - path: Reference
+        weight: 1
+      - path: Reference/Hips
+        weight: 1
+      - path: Reference/Hips/Leg
+        weight: 1
+      - path: Reference/Hips/Leg/leg1_1
+        weight: 1
+      - path: Reference/Hips/Leg/leg1_1/joint2
+        weight: 1
+      - path: Reference/Hips/Leg/leg1_1/joint2/joint3
+        weight: 1
+      - path: Reference/Hips/Leg/leg1_1/joint2/joint3/joint4
+        weight: 1
+      - path: Reference/Hips/Leg/leg1_1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Reference/Hips/Leg/leg2_1
+        weight: 1
+      - path: Reference/Hips/Leg/leg2_1/leg2_2
+        weight: 1
+      - path: Reference/Hips/Leg/leg2_1/leg2_2/leg2_3
+        weight: 1
+      - path: Reference/Hips/Leg/leg2_1/leg2_2/leg2_3/leg2_4
+        weight: 1
+      - path: Reference/Hips/Leg/leg2_1/leg2_2/leg2_3/leg2_4/leg2_5
+        weight: 1
+      - path: Reference/Hips/Leg/leg3_1
+        weight: 1
+      - path: Reference/Hips/Leg/leg3_1/leg3_2
+        weight: 1
+      - path: Reference/Hips/Leg/leg3_1/leg3_2/leg3_3
+        weight: 1
+      - path: Reference/Hips/Leg/leg3_1/leg3_2/leg3_3/leg3_4
+        weight: 1
+      - path: Reference/Hips/Leg/leg3_1/leg3_2/leg3_3/leg3_4/leg3_5
+        weight: 1
+      - path: Reference/Hips/Leg/leg4_1
+        weight: 1
+      - path: Reference/Hips/Leg/leg4_1/leg4_2
+        weight: 1
+      - path: Reference/Hips/Leg/leg4_1/leg4_2/leg4_3
+        weight: 1
+      - path: Reference/Hips/Leg/leg4_1/leg4_2/leg4_3/leg4_4
+        weight: 1
+      - path: Reference/Hips/Leg/leg4_1/leg4_2/leg4_3/leg4_4/leg4_5
+        weight: 1
+      - path: Reference/Hips/Leg/leg5_1
+        weight: 1
+      - path: Reference/Hips/Leg/leg5_1/leg5_2
+        weight: 1
+      - path: Reference/Hips/Leg/leg5_1/leg5_2/leg5_3
+        weight: 1
+      - path: Reference/Hips/Leg/leg5_1/leg5_2/leg5_3/leg5_4
+        weight: 1
+      - path: Reference/Hips/Leg/leg5_1/leg5_2/leg5_3/leg5_4/leg5_5
+        weight: 1
+      - path: Reference/Hips/Leg/leg6_1
+        weight: 1
+      - path: Reference/Hips/Leg/leg6_1/leg6_2
+        weight: 1
+      - path: Reference/Hips/Leg/leg6_1/leg6_2/leg6_3
+        weight: 1
+      - path: Reference/Hips/Leg/leg6_1/leg6_2/leg6_3/leg6_4
+        weight: 1
+      - path: Reference/Hips/Leg/leg6_1/leg6_2/leg6_3/leg6_4/leg6_5
+        weight: 1
+      - path: Reference/Hips/Spine
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: skeleton
+        weight: 1
+      - path: skeleton/head 3
+        weight: 1
+      - path: skeleton/head 3/torso
+        weight: 1
+      - path: skeleton/larm 3
+        weight: 1
+      - path: skeleton/larm 3/polySurface45
+        weight: 1
+      - path: skeleton/larm 3/polySurface49
+        weight: 1
+      - path: skeleton/larm 3/polySurface55
+        weight: 1
+      - path: skeleton/leg 3
+        weight: 1
+      - path: skeleton/leg 3/group1
+        weight: 1
+      - path: skeleton/leg 3/group1/polySurface41
+        weight: 1
+      - path: skeleton/leg 3/group1/polySurface42
+        weight: 1
+      - path: skeleton/leg 3/group1/polySurface44
+        weight: 1
+      - path: skeleton/leg 3/group2
+        weight: 1
+      - path: skeleton/leg 3/group2/polySurface35
+        weight: 1
+      - path: skeleton/leg 3/group2/polySurface37
+        weight: 1
+      - path: skeleton/leg 3/group2/polySurface39
+        weight: 1
+      - path: skeleton/leg 3/group3
+        weight: 1
+      - path: skeleton/leg 3/group3/polySurface30
+        weight: 1
+      - path: skeleton/leg 3/group3/polySurface32
+        weight: 1
+      - path: skeleton/leg 3/group3/polySurface34
+        weight: 1
+      - path: skeleton/leg 3/group4
+        weight: 1
+      - path: skeleton/leg 3/group4/polySurface15
+        weight: 1
+      - path: skeleton/leg 3/group4/polySurface17
+        weight: 1
+      - path: skeleton/leg 3/group4/polySurface19
+        weight: 1
+      - path: skeleton/leg 3/group5
+        weight: 1
+      - path: skeleton/leg 3/group5/polySurface20
+        weight: 1
+      - path: skeleton/leg 3/group5/polySurface22
+        weight: 1
+      - path: skeleton/leg 3/group5/polySurface24
+        weight: 1
+      - path: skeleton/leg 3/group6
+        weight: 1
+      - path: skeleton/leg 3/group6/polySurface25
+        weight: 1
+      - path: skeleton/leg 3/group6/polySurface27
+        weight: 1
+      - path: skeleton/leg 3/group6/polySurface29
+        weight: 1
+      - path: skeleton/leg 3/polySurface13
+        weight: 1
+      - path: skeleton/rarm 3
+        weight: 1
+      - path: skeleton/rarm 3/polySurface52
+        weight: 1
+      - path: skeleton/rarm 3/polySurface53
+        weight: 1
+      - path: skeleton/rarm 3/polySurface56
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SPDie
+      takeName: Take 001
+      firstFrame: 150
+      lastFrame: 164
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GARNIK
+        weight: 1
+      - path: GARNIK/head
+        weight: 1
+      - path: GARNIK/head/Torso
+        weight: 1
+      - path: GARNIK/larm
+        weight: 1
+      - path: GARNIK/larm/part1
+        weight: 1
+      - path: GARNIK/larm/part2
+        weight: 1
+      - path: GARNIK/larm/part3
+        weight: 1
+      - path: GARNIK/leg
+        weight: 1
+      - path: GARNIK/leg/body
+        weight: 1
+      - path: GARNIK/leg/leg1
+        weight: 1
+      - path: GARNIK/leg/leg1/part1 4
+        weight: 1
+      - path: GARNIK/leg/leg1/part2 4
+        weight: 1
+      - path: GARNIK/leg/leg2
+        weight: 1
+      - path: GARNIK/leg/leg2/part1 5
+        weight: 1
+      - path: GARNIK/leg/leg2/part2 5
+        weight: 1
+      - path: GARNIK/leg/leg3
+        weight: 1
+      - path: GARNIK/leg/leg3/part1 6
+        weight: 1
+      - path: GARNIK/leg/leg3/part2 6
+        weight: 1
+      - path: GARNIK/leg/leg4
+        weight: 1
+      - path: GARNIK/leg/leg4/part1 7
+        weight: 1
+      - path: GARNIK/leg/leg4/part2 7
+        weight: 1
+      - path: GARNIK/leg/leg5
+        weight: 1
+      - path: GARNIK/leg/leg5/part1 8
+        weight: 1
+      - path: GARNIK/leg/leg5/part2 8
+        weight: 1
+      - path: GARNIK/leg/leg6
+        weight: 1
+      - path: GARNIK/leg/leg6/part1 9
+        weight: 1
+      - path: GARNIK/leg/leg6/part2 9
+        weight: 1
+      - path: GARNIK/rarm
+        weight: 1
+      - path: GARNIK/rarm/part1 1
+        weight: 1
+      - path: GARNIK/rarm/part2 1
+        weight: 1
+      - path: GARNIK/rarm/part3 1
+        weight: 1
+      - path: LENNOX
+        weight: 1
+      - path: LENNOX/head 1
+        weight: 1
+      - path: LENNOX/head 1/Torso 1
+        weight: 1
+      - path: LENNOX/larm 1
+        weight: 1
+      - path: LENNOX/larm 1/polySurface1
+        weight: 1
+      - path: LENNOX/larm 1/polySurface4
+        weight: 1
+      - path: LENNOX/larm 1/polySurface5
+        weight: 1
+      - path: LENNOX/leg 1
+        weight: 1
+      - path: LENNOX/leg 1/body 1
+        weight: 1
+      - path: LENNOX/leg 1/leg1 1
+        weight: 1
+      - path: LENNOX/leg 1/leg1 1/part1 10
+        weight: 1
+      - path: LENNOX/leg 1/leg1 1/part2 10
+        weight: 1
+      - path: LENNOX/leg 1/leg2 1
+        weight: 1
+      - path: LENNOX/leg 1/leg2 1/aprt1
+        weight: 1
+      - path: LENNOX/leg 1/leg2 1/part2 11
+        weight: 1
+      - path: LENNOX/leg 1/leg3 1
+        weight: 1
+      - path: LENNOX/leg 1/leg3 1/part1 11
+        weight: 1
+      - path: LENNOX/leg 1/leg3 1/part2 12
+        weight: 1
+      - path: LENNOX/leg 1/leg4 1
+        weight: 1
+      - path: LENNOX/leg 1/leg4 1/part1 12
+        weight: 1
+      - path: LENNOX/leg 1/leg4 1/part2 13
+        weight: 1
+      - path: LENNOX/leg 1/leg5 1
+        weight: 1
+      - path: LENNOX/leg 1/leg5 1/part1 13
+        weight: 1
+      - path: LENNOX/leg 1/leg5 1/part2 14
+        weight: 1
+      - path: LENNOX/leg 1/leg6 1
+        weight: 1
+      - path: LENNOX/leg 1/leg6 1/part1 14
+        weight: 1
+      - path: LENNOX/leg 1/leg6 1/part2 15
+        weight: 1
+      - path: LENNOX/rarm 1
+        weight: 1
+      - path: LENNOX/rarm 1/polySurface8
+        weight: 1
+      - path: LENNOX/rarm 1/polySurface11
+        weight: 1
+      - path: LENNOX/rarm 1/polySurface12
+        weight: 1
+      - path: MADDOX
+        weight: 1
+      - path: MADDOX/head 2
+        weight: 1
+      - path: MADDOX/head 2/Torso 2
+        weight: 1
+      - path: MADDOX/larm 2
+        weight: 1
+      - path: MADDOX/larm 2/part1 2
+        weight: 1
+      - path: MADDOX/larm 2/part2 2
+        weight: 1
+      - path: MADDOX/larm 2/part3 2
+        weight: 1
+      - path: MADDOX/leg 2
+        weight: 1
+      - path: MADDOX/leg 2/body 2
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2/part1 15
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2/part2 16
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2/part3 4
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2/part4
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2/part5
+        weight: 1
+      - path: MADDOX/leg 2/leg1 2/part6
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2/part1 16
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2/part2 17
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2/part3 5
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2/part7
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2/part8
+        weight: 1
+      - path: MADDOX/leg 2/leg2 2/part9
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2/part1 17
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2/part2 18
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2/part3 6
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2/part10
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2/part11
+        weight: 1
+      - path: MADDOX/leg 2/leg3 2/part12
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2/part1 18
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2/part2 19
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2/part3 7
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2/part13
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2/part14
+        weight: 1
+      - path: MADDOX/leg 2/leg4 2/part15
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2/part1 19
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2/part2 20
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2/part3 8
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2/part16
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2/part17
+        weight: 1
+      - path: MADDOX/leg 2/leg5 2/part18
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2/part1 20
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2/part2 21
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2/part3 9
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2/part19
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2/part20
+        weight: 1
+      - path: MADDOX/leg 2/leg6 2/part21
+        weight: 1
+      - path: MADDOX/rarm 2
+        weight: 1
+      - path: MADDOX/rarm 2/part1 3
+        weight: 1
+      - path: MADDOX/rarm 2/part2 3
+        weight: 1
+      - path: MADDOX/rarm 2/part3 3
+        weight: 1
+      - path: Reference
+        weight: 1
+      - path: Reference/Hips
+        weight: 1
+      - path: Reference/Hips/Leg
+        weight: 1
+      - path: Reference/Hips/Leg/leg1_1
+        weight: 1
+      - path: Reference/Hips/Leg/leg1_1/joint2
+        weight: 1
+      - path: Reference/Hips/Leg/leg1_1/joint2/joint3
+        weight: 1
+      - path: Reference/Hips/Leg/leg1_1/joint2/joint3/joint4
+        weight: 1
+      - path: Reference/Hips/Leg/leg1_1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Reference/Hips/Leg/leg2_1
+        weight: 1
+      - path: Reference/Hips/Leg/leg2_1/leg2_2
+        weight: 1
+      - path: Reference/Hips/Leg/leg2_1/leg2_2/leg2_3
+        weight: 1
+      - path: Reference/Hips/Leg/leg2_1/leg2_2/leg2_3/leg2_4
+        weight: 1
+      - path: Reference/Hips/Leg/leg2_1/leg2_2/leg2_3/leg2_4/leg2_5
+        weight: 1
+      - path: Reference/Hips/Leg/leg3_1
+        weight: 1
+      - path: Reference/Hips/Leg/leg3_1/leg3_2
+        weight: 1
+      - path: Reference/Hips/Leg/leg3_1/leg3_2/leg3_3
+        weight: 1
+      - path: Reference/Hips/Leg/leg3_1/leg3_2/leg3_3/leg3_4
+        weight: 1
+      - path: Reference/Hips/Leg/leg3_1/leg3_2/leg3_3/leg3_4/leg3_5
+        weight: 1
+      - path: Reference/Hips/Leg/leg4_1
+        weight: 1
+      - path: Reference/Hips/Leg/leg4_1/leg4_2
+        weight: 1
+      - path: Reference/Hips/Leg/leg4_1/leg4_2/leg4_3
+        weight: 1
+      - path: Reference/Hips/Leg/leg4_1/leg4_2/leg4_3/leg4_4
+        weight: 1
+      - path: Reference/Hips/Leg/leg4_1/leg4_2/leg4_3/leg4_4/leg4_5
+        weight: 1
+      - path: Reference/Hips/Leg/leg5_1
+        weight: 1
+      - path: Reference/Hips/Leg/leg5_1/leg5_2
+        weight: 1
+      - path: Reference/Hips/Leg/leg5_1/leg5_2/leg5_3
+        weight: 1
+      - path: Reference/Hips/Leg/leg5_1/leg5_2/leg5_3/leg5_4
+        weight: 1
+      - path: Reference/Hips/Leg/leg5_1/leg5_2/leg5_3/leg5_4/leg5_5
+        weight: 1
+      - path: Reference/Hips/Leg/leg6_1
+        weight: 1
+      - path: Reference/Hips/Leg/leg6_1/leg6_2
+        weight: 1
+      - path: Reference/Hips/Leg/leg6_1/leg6_2/leg6_3
+        weight: 1
+      - path: Reference/Hips/Leg/leg6_1/leg6_2/leg6_3/leg6_4
+        weight: 1
+      - path: Reference/Hips/Leg/leg6_1/leg6_2/leg6_3/leg6_4/leg6_5
+        weight: 1
+      - path: Reference/Hips/Spine
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: skeleton
+        weight: 1
+      - path: skeleton/head 3
+        weight: 1
+      - path: skeleton/head 3/torso
+        weight: 1
+      - path: skeleton/larm 3
+        weight: 1
+      - path: skeleton/larm 3/polySurface45
+        weight: 1
+      - path: skeleton/larm 3/polySurface49
+        weight: 1
+      - path: skeleton/larm 3/polySurface55
+        weight: 1
+      - path: skeleton/leg 3
+        weight: 1
+      - path: skeleton/leg 3/group1
+        weight: 1
+      - path: skeleton/leg 3/group1/polySurface41
+        weight: 1
+      - path: skeleton/leg 3/group1/polySurface42
+        weight: 1
+      - path: skeleton/leg 3/group1/polySurface44
+        weight: 1
+      - path: skeleton/leg 3/group2
+        weight: 1
+      - path: skeleton/leg 3/group2/polySurface35
+        weight: 1
+      - path: skeleton/leg 3/group2/polySurface37
+        weight: 1
+      - path: skeleton/leg 3/group2/polySurface39
+        weight: 1
+      - path: skeleton/leg 3/group3
+        weight: 1
+      - path: skeleton/leg 3/group3/polySurface30
+        weight: 1
+      - path: skeleton/leg 3/group3/polySurface32
+        weight: 1
+      - path: skeleton/leg 3/group3/polySurface34
+        weight: 1
+      - path: skeleton/leg 3/group4
+        weight: 1
+      - path: skeleton/leg 3/group4/polySurface15
+        weight: 1
+      - path: skeleton/leg 3/group4/polySurface17
+        weight: 1
+      - path: skeleton/leg 3/group4/polySurface19
+        weight: 1
+      - path: skeleton/leg 3/group5
+        weight: 1
+      - path: skeleton/leg 3/group5/polySurface20
+        weight: 1
+      - path: skeleton/leg 3/group5/polySurface22
+        weight: 1
+      - path: skeleton/leg 3/group5/polySurface24
+        weight: 1
+      - path: skeleton/leg 3/group6
+        weight: 1
+      - path: skeleton/leg 3/group6/polySurface25
+        weight: 1
+      - path: skeleton/leg 3/group6/polySurface27
+        weight: 1
+      - path: skeleton/leg 3/group6/polySurface29
+        weight: 1
+      - path: skeleton/leg 3/polySurface13
+        weight: 1
+      - path: skeleton/rarm 3
+        weight: 1
+      - path: skeleton/rarm 3/polySurface52
+        weight: 1
+      - path: skeleton/rarm 3/polySurface53
+        weight: 1
+      - path: skeleton/rarm 3/polySurface56
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

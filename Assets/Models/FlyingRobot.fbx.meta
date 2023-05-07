@@ -1,0 +1,489 @@
+fileFormatVersion: 2
+guid: 82ae7167c3c27fb4182fe1ff1edcf7e7
+timeCreated: 1528389304
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: body 1
+    100004: body 2
+    100006: body 3
+    100008: Flying1_robot01
+    100010: Flying2_robot04
+    100012: Flying3_robot13
+    100014: Flying4_robot11
+    100016: //RootNode
+    100018: Head
+    100020: head
+    100022: head 1
+    100024: head 2
+    100026: head 3
+    100028: Hips
+    100030: LArm
+    100032: LArm 1
+    100034: LArm 2
+    100036: LArm 3
+    100038: LArm_art3
+    100040: LArmPart1
+    100042: LArmPart1 1
+    100044: LArmPart1 2
+    100046: LArmPart1 3
+    100048: LArmPart2
+    100050: LArmPart2 1
+    100052: LArmPart2 2
+    100054: LArmPart2 3
+    100056: LArmPart3
+    100058: LArmPart3 1
+    100060: LArmPart3 2
+    100062: LeftArm
+    100064: LeftFoot
+    100066: LeftForeArm
+    100068: LeftHand
+    100070: LeftHandIndex1
+    100072: LeftHandMiddle1
+    100074: LeftHandRing1
+    100076: LeftLeg
+    100078: LeftShoulder
+    100080: LeftToeBase
+    100082: LeftUpLeg
+    100084: Leg
+    100086: Neck
+    100088: RArm
+    100090: RArm 1
+    100092: RArm 2
+    100094: RArm 3
+    100096: RArmPart1
+    100098: RArmPart1 1
+    100100: RArmPart1 2
+    100102: RArmPart1 3
+    100104: RArmPart2
+    100106: RArmPart2 1
+    100108: RArmPart2 2
+    100110: RArmPart2 3
+    100112: RArmPart3
+    100114: RArmPart3 1
+    100116: RArmPart3 2
+    100118: RArmPart3 3
+    100120: Reference
+    100122: reg
+    100124: reg 1
+    100126: reg 2
+    100128: RightArm
+    100130: RightForeArm
+    100132: RightHand
+    100134: RightHandIndex1
+    100136: RightHandMiddle1
+    100138: RightHandRing1
+    100140: RightShoulder
+    100142: Spine
+    100144: Spine1
+    100146: Spine2
+    100148: HEAD
+    100150: LEFTARM
+    100152: polySurface1
+    100154: polySurface11
+    100156: polySurface12
+    100158: polySurface13
+    100160: polySurface5
+    100162: polySurface7
+    100164: polySurface8
+    100166: REG
+    100168: RIGHTARM
+    100170: skeleton
+    100172: Skeleton_Head.002
+    100174: body 4
+    100176: BREOGAN
+    100178: EIRIAN
+    100180: head 4
+    100182: KELLY
+    100184: larm
+    100186: larm 1
+    100188: larm 2
+    100190: larm 3
+    100192: larm 4
+    100194: leg
+    100196: leg 1
+    100198: leg 2
+    100200: leg 3
+    100202: leg 4
+    100204: rarm
+    100206: rarm 1
+    100208: rarm 2
+    100210: rarm 3
+    100212: rarm 4
+    100214: WASSI
+    400000: body
+    400002: body 1
+    400004: body 2
+    400006: body 3
+    400008: Flying1_robot01
+    400010: Flying2_robot04
+    400012: Flying3_robot13
+    400014: Flying4_robot11
+    400016: //RootNode
+    400018: Head
+    400020: head
+    400022: head 1
+    400024: head 2
+    400026: head 3
+    400028: Hips
+    400030: LArm
+    400032: LArm 1
+    400034: LArm 2
+    400036: LArm 3
+    400038: LArm_art3
+    400040: LArmPart1
+    400042: LArmPart1 1
+    400044: LArmPart1 2
+    400046: LArmPart1 3
+    400048: LArmPart2
+    400050: LArmPart2 1
+    400052: LArmPart2 2
+    400054: LArmPart2 3
+    400056: LArmPart3
+    400058: LArmPart3 1
+    400060: LArmPart3 2
+    400062: LeftArm
+    400064: LeftFoot
+    400066: LeftForeArm
+    400068: LeftHand
+    400070: LeftHandIndex1
+    400072: LeftHandMiddle1
+    400074: LeftHandRing1
+    400076: LeftLeg
+    400078: LeftShoulder
+    400080: LeftToeBase
+    400082: LeftUpLeg
+    400084: Leg
+    400086: Neck
+    400088: RArm
+    400090: RArm 1
+    400092: RArm 2
+    400094: RArm 3
+    400096: RArmPart1
+    400098: RArmPart1 1
+    400100: RArmPart1 2
+    400102: RArmPart1 3
+    400104: RArmPart2
+    400106: RArmPart2 1
+    400108: RArmPart2 2
+    400110: RArmPart2 3
+    400112: RArmPart3
+    400114: RArmPart3 1
+    400116: RArmPart3 2
+    400118: RArmPart3 3
+    400120: Reference
+    400122: reg
+    400124: reg 1
+    400126: reg 2
+    400128: RightArm
+    400130: RightForeArm
+    400132: RightHand
+    400134: RightHandIndex1
+    400136: RightHandMiddle1
+    400138: RightHandRing1
+    400140: RightShoulder
+    400142: Spine
+    400144: Spine1
+    400146: Spine2
+    400148: HEAD
+    400150: LEFTARM
+    400152: polySurface1
+    400154: polySurface11
+    400156: polySurface12
+    400158: polySurface13
+    400160: polySurface5
+    400162: polySurface7
+    400164: polySurface8
+    400166: REG
+    400168: RIGHTARM
+    400170: skeleton
+    400172: Skeleton_Head.002
+    400174: body 4
+    400176: BREOGAN
+    400178: EIRIAN
+    400180: head 4
+    400182: KELLY
+    400184: larm
+    400186: larm 1
+    400188: larm 2
+    400190: larm 3
+    400192: larm 4
+    400194: leg
+    400196: leg 1
+    400198: leg 2
+    400200: leg 3
+    400202: leg 4
+    400204: rarm
+    400206: rarm 1
+    400208: rarm 2
+    400210: rarm 3
+    400212: rarm 4
+    400214: WASSI
+    2300000: body
+    2300002: body 1
+    2300004: body 2
+    2300006: body 3
+    2300008: body 4
+    2300010: head
+    2300012: head 1
+    2300014: head 2
+    2300016: head 3
+    2300018: head 4
+    2300020: LArm_art3
+    2300022: LArmPart1
+    2300024: LArmPart1 1
+    2300026: LArmPart1 2
+    2300028: LArmPart1 3
+    2300030: LArmPart2
+    2300032: LArmPart2 1
+    2300034: LArmPart2 2
+    2300036: LArmPart2 3
+    2300038: LArmPart3
+    2300040: LArmPart3 1
+    2300042: LArmPart3 2
+    2300044: leg
+    2300046: leg 1
+    2300048: leg 2
+    2300050: leg 3
+    2300052: leg 4
+    2300054: polySurface1
+    2300056: polySurface11
+    2300058: polySurface12
+    2300060: polySurface5
+    2300062: polySurface7
+    2300064: polySurface8
+    2300066: RArmPart1
+    2300068: RArmPart1 1
+    2300070: RArmPart1 2
+    2300072: RArmPart1 3
+    2300074: RArmPart2
+    2300076: RArmPart2 1
+    2300078: RArmPart2 2
+    2300080: RArmPart2 3
+    2300082: RArmPart3
+    2300084: RArmPart3 1
+    2300086: RArmPart3 2
+    2300088: RArmPart3 3
+    3300000: body
+    3300002: body 1
+    3300004: body 2
+    3300006: body 3
+    3300008: body 4
+    3300010: head
+    3300012: head 1
+    3300014: head 2
+    3300016: head 3
+    3300018: head 4
+    3300020: LArm_art3
+    3300022: LArmPart1
+    3300024: LArmPart1 1
+    3300026: LArmPart1 2
+    3300028: LArmPart1 3
+    3300030: LArmPart2
+    3300032: LArmPart2 1
+    3300034: LArmPart2 2
+    3300036: LArmPart2 3
+    3300038: LArmPart3
+    3300040: LArmPart3 1
+    3300042: LArmPart3 2
+    3300044: leg
+    3300046: leg 1
+    3300048: leg 2
+    3300050: leg 3
+    3300052: leg 4
+    3300054: polySurface1
+    3300056: polySurface11
+    3300058: polySurface12
+    3300060: polySurface5
+    3300062: polySurface7
+    3300064: polySurface8
+    3300066: RArmPart1
+    3300068: RArmPart1 1
+    3300070: RArmPart1 2
+    3300072: RArmPart1 3
+    3300074: RArmPart2
+    3300076: RArmPart2 1
+    3300078: RArmPart2 2
+    3300080: RArmPart2 3
+    3300082: RArmPart3
+    3300084: RArmPart3 1
+    3300086: RArmPart3 2
+    3300088: RArmPart3 3
+    4300000: LArmPart2
+    4300002: LArmPart1
+    4300004: LArmPart3
+    4300006: body
+    4300008: head
+    4300010: reg
+    4300012: RArmPart2
+    4300014: RArmPart1
+    4300016: RArmPart3
+    4300018: LArmPart2
+    4300020: LArmPart1
+    4300022: LArm_art3
+    4300024: body
+    4300026: RArmPart2
+    4300028: RArmPart3
+    4300030: RArmPart1
+    4300032: head
+    4300034: reg
+    4300036: RArmPart1
+    4300038: RArmPart2
+    4300040: RArmPart3
+    4300042: LArmPart1
+    4300044: LArmPart2
+    4300046: LArmPart3
+    4300048: body
+    4300050: head
+    4300052: reg
+    4300054: Leg
+    4300056: LArmPart3
+    4300058: LArmPart2
+    4300060: LArmPart1
+    4300062: body
+    4300064: RArmPart3
+    4300066: RArmPart2
+    4300068: RArmPart1
+    4300070: head
+    4300072: REG
+    4300074: Skeleton_Head.002
+    4300076: polySurface13
+    4300078: polySurface11
+    4300080: polySurface5
+    4300082: polySurface1
+    4300084: polySurface12
+    4300086: polySurface7
+    4300088: polySurface8
+    4300090: leg
+    4300092: leg
+    4300094: leg
+    4300096: leg
+    4300098: leg
+    4300100: head
+    4300102: body
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: body
+    13700002: body 1
+    13700004: body 2
+    13700006: body 3
+    13700008: head
+    13700010: head 1
+    13700012: head 2
+    13700014: head 3
+    13700016: LArm_art3
+    13700018: LArmPart1
+    13700020: LArmPart1 1
+    13700022: LArmPart1 2
+    13700024: LArmPart1 3
+    13700026: LArmPart2
+    13700028: LArmPart2 1
+    13700030: LArmPart2 2
+    13700032: LArmPart2 3
+    13700034: LArmPart3
+    13700036: LArmPart3 1
+    13700038: LArmPart3 2
+    13700040: Leg
+    13700042: RArmPart1
+    13700044: RArmPart1 1
+    13700046: RArmPart1 2
+    13700048: RArmPart1 3
+    13700050: RArmPart2
+    13700052: RArmPart2 1
+    13700054: RArmPart2 2
+    13700056: RArmPart2 3
+    13700058: RArmPart3
+    13700060: RArmPart3 1
+    13700062: RArmPart3 2
+    13700064: RArmPart3 3
+    13700066: reg
+    13700068: reg 1
+    13700070: reg 2
+    13700072: polySurface1
+    13700074: polySurface11
+    13700076: polySurface12
+    13700078: polySurface13
+    13700080: polySurface5
+    13700082: polySurface7
+    13700084: polySurface8
+    13700086: REG
+    13700088: Skeleton_Head.002
+    13700090: body 4
+    13700092: head 4
+    13700094: leg
+    13700096: leg 1
+    13700098: leg 2
+    13700100: leg 3
+    13700102: leg 4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

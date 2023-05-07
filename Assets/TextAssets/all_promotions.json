@@ -1,0 +1,98 @@
+{"status":"success", "result":{
+    "robots": [
+        {
+            "object_id": 0,
+            "head_object_id": 0,
+            "larm_object_id": 0,
+            "rarm_object_id": 0,
+            "leg_object_id": 0,
+            "robot_name": "DONARDO",
+            "level": 1,
+			"is_new" : 1,
+			"is_discounted": 0,
+			"old_price": 0,
+			"new_price": 200
+        },
+        {
+            "object_id": 0,
+            "head_object_id": 1,
+            "larm_object_id": 1,
+            "rarm_object_id": 1,
+            "leg_object_id": 1,
+            "robot_name": "BOXTROT",
+            "level": 1,
+			"is_new" : 1,
+			"is_discounted" : 0,
+			"old_price": 0,
+			"new_price": 300
+        },
+        {
+            "object_id": 0,
+            "head_object_id": 2,
+            "larm_object_id": 2,
+            "rarm_object_id": 2,
+            "leg_object_id": 2,
+            "robot_name": "MAIDEN",
+            "level": 1,
+			"is_new":0,
+			"is_discounted" :1,
+			"old_price" : 600,
+			"new_price" : 300
+        },
+        {
+            "object_id": 0,
+            "head_object_id": 16,
+            "larm_object_id": 16,
+            "rarm_object_id": 16,
+            "leg_object_id": 16,
+            "robot_name": "KELLY",
+            "level": 3,
+			"is_new" : 0,
+			"is_discounted" : 1,
+			"old_price" : 500,
+			"new_price" : 200
+        }
+    ],
+    "pieces": [
+        {
+            "object_id": 1,
+            "piece_type": 0,
+            "piece_id": 0,
+            "level": 1,
+			"is_new" : 1,
+			"is_discounted" : 0,
+			"old_price" : 0,
+			"new_price" : 200
+        },
+        {
+            "object_id": 1,
+            "piece_type": 1,
+            "piece_id": 4,
+            "level": 1,
+			"is_new" : 1,
+			"is_discounted" : 0,
+			"old_price" : 0,
+			"new_price" : 300
+        },
+        {
+            "object_id": 1,
+            "piece_type": 2,
+            "piece_id": 3,
+            "level": 1,
+			"is_new" : 0,
+			"is_discounted" : 1,
+			"old_price" : 600,
+			"new_price" : 300
+        },
+        {
+            "object_id": 1,
+            "piece_type": 1,
+            "piece_id": 7,
+            "level": 1,
+			"is_new" : 0,
+			"is_discounted" : 1,
+			"old_price" : 500,
+			"new_price" : 200
+        }
+    ]
+}}

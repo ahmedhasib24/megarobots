@@ -1,0 +1,1712 @@
+{"status":"success", "result":{
+    "levels": [
+        {
+            "battle_id": 0,
+            "level_id": 0,
+            "env_id": 0,
+            "passed": 0,
+            "locked": 0,
+            "win_count": 2,
+            "opponent_robots": [
+                20
+            ],
+            "reward1": {
+                "reward_type": 0,
+                "reward_count": 1,
+                "robot_ids": [
+                    20
+                ],
+                "medicament": 1,
+                "gems": 5
+            },
+            "reward2": {
+                "reward_type": 0,
+                "reward_count": 1,
+                "robot_ids": [
+                    20
+                ],
+                "medicament": 1,
+                "gems": 5
+            }
+        },
+        {
+            "battle_id": 1,
+            "level_id": 1,
+            "env_id": 0,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                11
+            ],
+            "reward1": {
+                "reward_type": 0,
+                "reward_count": 1,
+                "robot_ids": [
+                    11
+                ],
+                "medicament": 2,
+                "gems": 10
+            },
+            "reward2": {
+                "reward_type": 0,
+                "reward_count": 1,
+                "robot_ids": [
+                    11
+                ],
+                "medicament": 2,
+                "gems": 10
+            }
+        },
+        {
+            "battle_id": 2,
+            "level_id": 2,
+            "env_id": 0,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                19
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    19
+                ],
+                "medicament": 1,
+                "gems": 50
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    19
+                ],
+                "medicament": 1,
+                "gems": 50
+            }
+        },
+        {
+            "battle_id": 3,
+            "level_id": 2,
+            "env_id": 1,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                19,
+                11,
+                20
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    19,
+                    11,
+                    20
+                ],
+                "medicament": 1,
+                "gems": 50
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    19,
+                    11,
+                    20
+                ],
+                "medicament": 1,
+                "gems": 50
+            }
+        },
+        {
+            "battle_id": 4,
+            "level_id": 3,
+            "env_id": 0,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                21,
+                19
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    21,
+                    19
+                ],
+                "medicament": 0,
+                "gems": 0
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    21,
+                    19
+                ],
+                "medicament": 0,
+                "gems": 0
+            }
+        },
+        {
+            "battle_id": 5,
+            "level_id": 3,
+            "env_id": 1,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                21,
+                19,
+                11
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    21,
+                    19,
+                    11
+                ],
+                "medicament": 0,
+                "gems": 0
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    21,
+                    19,
+                    11
+                ],
+                "medicament": 0,
+                "gems": 0
+            }
+        },
+        {
+            "battle_id": 6,
+            "level_id": 4,
+            "env_id": 0,
+            "passed": 1,
+            "locked": 1,
+            "win_count": 4,
+            "opponent_robots": [
+                4,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 2,
+                "robot_ids": [
+                    4,
+                    21
+                ],
+                "medicament": 1,
+                "gems": 150
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 2,
+                "robot_ids": [
+                    4,
+                    21
+                ],
+                "medicament": 1,
+                "gems": 150
+            }
+        },
+        {
+            "battle_id": 7,
+            "level_id": 4,
+            "env_id": 1,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 2,
+            "opponent_robots": [
+                20,
+                7
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 2,
+                "robot_ids": [
+                    20,
+                    7
+                ],
+                "medicament": 1,
+                "gems": 150
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 2,
+                "robot_ids": [
+                    20,
+                    7
+                ],
+                "medicament": 1,
+                "gems": 150
+            }
+        },
+        {
+            "battle_id": 8,
+            "level_id": 5,
+            "env_id": 0,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                12,
+                19
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    12,
+                    19
+                ],
+                "medicament": 0,
+                "gems": 150
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    12,
+                    19
+                ],
+                "medicament": 0,
+                "gems": 150
+            }
+        },
+        {
+            "battle_id": 9,
+            "level_id": 5,
+            "env_id": 1,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                11,
+                19
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    11,
+                    19
+                ],
+                "medicament": 0,
+                "gems": 150
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    11,
+                    19
+                ],
+                "medicament": 0,
+                "gems": 150
+            }
+        },
+        {
+            "battle_id": 10,
+            "level_id": 6,
+            "env_id": 0,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2
+            ],
+            "reward1": {
+                "reward_type": 0,
+                "reward_count": 1,
+                "robot_ids": [
+                    2
+                ],
+                "medicament": 1,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 0,
+                "reward_count": 1,
+                "robot_ids": [
+                    2
+                ],
+                "medicament": 1,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 11,
+            "level_id": 7,
+            "env_id": 0,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 12,
+            "level_id": 7,
+            "env_id": 1,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 13,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 14,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 15,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 16,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 17,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 18,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 19,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 20,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 21,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 22,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 23,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 24,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 25,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 26,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 27,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 28,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 29,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 30,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 31,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 32,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 33,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 34,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 35,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 36,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 37,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 38,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 39,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 40,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 41,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 42,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 43,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 44,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 45,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 46,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 47,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 48,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        },
+        {
+            "battle_id": 49,
+            "level_id": 7,
+            "env_id": 2,
+            "passed": 0,
+            "locked": 1,
+            "win_count": 0,
+            "opponent_robots": [
+                2,
+                12,
+                21
+            ],
+            "reward1": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            },
+            "reward2": {
+                "reward_type": 1,
+                "reward_count": 1,
+                "robot_ids": [
+                    2,
+                    12,
+                    21
+                ],
+                "medicament": 0,
+                "gems": 200
+            }
+        }
+    ]
+}}

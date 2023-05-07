@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: 34d1dad49593a2e44b129f1f68c816d6
+timeCreated: 1442757568
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Tree_1
+    100002: Tree_2
+    100004: Tree_3
+    100006: Tree_4
+    100008: Tree_5
+    100010: Tree_6
+    100012: //RootNode
+    400000: Tree_1
+    400002: Tree_2
+    400004: Tree_3
+    400006: Tree_4
+    400008: Tree_5
+    400010: Tree_6
+    400012: //RootNode
+    2300000: Tree_1
+    2300002: Tree_2
+    2300004: Tree_3
+    2300006: Tree_4
+    2300008: Tree_5
+    2300010: Tree_6
+    3300000: Tree_1
+    3300002: Tree_2
+    3300004: Tree_3
+    3300006: Tree_4
+    3300008: Tree_5
+    3300010: Tree_6
+    4300000: Tree_4
+    4300002: Tree_3
+    4300004: Tree_1
+    4300006: Tree_2
+    4300008: Tree_6
+    4300010: Tree_5
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

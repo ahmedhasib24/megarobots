@@ -1,0 +1,3454 @@
+fileFormatVersion: 2
+guid: 23b9a4335c7d0c647844f420bfc98ba0
+timeCreated: 1528249414
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ArmL
+    100002: armL
+    100004: ArmR
+    100006: armR
+    100008: BodyBottom
+    100010: bodyBottom
+    100012: bodyBottom 1
+    100014: BodyTop
+    100016: bodyTop
+    100018: bodyTop 1
+    100020: Bone
+    100022: FeetL
+    100024: FeetR
+    100026: Head
+    100028: head
+    100030: Head 1
+    100032: Head 2
+    100034: Hips
+    100036: //RootNode
+    100038: LArm
+    100040: LArmPart1
+    100042: LArmPart1 1
+    100044: LArmPart2
+    100046: LArmPart2 1
+    100048: LArmPart3
+    100050: LArmpart3
+    100052: LeftArm
+    100054: LeftFoot
+    100056: LeftForeArm
+    100058: LeftHand
+    100060: LeftHandIndex1
+    100062: LeftHandIndex2
+    100064: LeftHandRing1
+    100066: LeftHandRing2
+    100068: LeftHandThumb1
+    100070: LeftHandThumb2
+    100072: LeftLeg
+    100074: LeftShoulder
+    100076: LeftToeBase
+    100078: LeftUpLeg
+    100080: LReg
+    100082: LRegPart1
+    100084: LRegPart1 1
+    100086: LRegPart2
+    100088: LRegPart2 1
+    100090: LRegPart3
+    100092: LRegPart3 1
+    100094: Neck
+    100096: part1
+    100098: part1 1
+    100100: part1 2
+    100102: part1 3
+    100104: part2
+    100106: part2 1
+    100108: part2 2
+    100110: part3
+    100112: part3 1
+    100114: prat2
+    100116: RArm
+    100118: RArmPart1
+    100120: RArmPart1 1
+    100122: RArmPart2
+    100124: RArmPart2 1
+    100126: RArmPart3
+    100128: RArmPart3 1
+    100130: regL
+    100132: regR
+    100134: RightArm
+    100136: RightFoot
+    100138: RightForeArm
+    100140: RightHand
+    100142: RightHandIndex1
+    100144: RightHandIndex2
+    100146: RightHandRing1
+    100148: RightHandRing2
+    100150: RightHandThumb1
+    100152: RightHandThumb2
+    100154: RightLeg
+    100156: RightShoulder
+    100158: RightToeBase
+    100160: RightUpLeg
+    100162: robot2
+    100164: robot5
+    100166: robot6
+    100168: RReg
+    100170: RRegPart1
+    100172: RRegpart1
+    100174: RRegPart2
+    100176: RRegpart2
+    100178: RRegPart3
+    100180: RRegPart3 1
+    100182: Spine
+    100184: Spine1
+    100186: Spine2
+    100188: bodyBottom 2
+    100190: bodyBottom 3
+    100192: bodyTop 2
+    100194: bodyTop 3
+    100196: head 1
+    100198: Head 3
+    100200: LArm 1
+    100202: LArm 2
+    100204: LArmPart1 2
+    100206: LArmPart1 3
+    100208: LArmPart2 2
+    100210: LArmPart2 3
+    100212: LArmPart3 1
+    100214: LArmPart3 2
+    100216: LReg 1
+    100218: LReg 2
+    100220: LRegpart1
+    100222: LRegPart1 2
+    100224: LRegpart2
+    100226: LRegPart2 2
+    100228: LRegpart3
+    100230: LRegPart3 2
+    100232: RArm 1
+    100234: RArm 2
+    100236: RArmPart1 2
+    100238: RArmPart1 3
+    100240: RArmPart2 2
+    100242: RArmPart2 3
+    100244: RArmPart3 2
+    100246: RArmPart3 3
+    100248: robot7
+    100250: robot8
+    100252: RReg 1
+    100254: RReg 2
+    100256: RRegPart1 1
+    100258: RRegpart1 1
+    100260: RRegPart2 1
+    100262: RRegpart2 1
+    100264: RRegpart3
+    100266: RRegPart3 2
+    100268: body
+    100270: bodyBottom 4
+    100272: bodyBottom 5
+    100274: bodyBottom 6
+    100276: bodyTop 4
+    100278: bodyTop 5
+    100280: bodyTop 6
+    100282: head 2
+    100284: head 3
+    100286: Head 4
+    100288: head 4
+    100290: LArm 3
+    100292: LArm 4
+    100294: LArm 5
+    100296: LArm 6
+    100298: LArmPart1 4
+    100300: LArmPart1 5
+    100302: LArmPart1 6
+    100304: LArmPart1 7
+    100306: LArmPart1 8
+    100308: LArmPart2 4
+    100310: LArmPart2 5
+    100312: LArmPart2 6
+    100314: LArmPart2 7
+    100316: LArmPart2 8
+    100318: LArmPart3 3
+    100320: LArmPart3 4
+    100322: LArmPart3 5
+    100324: LArmPart3 6
+    100326: LArmPart3 7
+    100328: LReg 3
+    100330: LReg 4
+    100332: LReg 5
+    100334: LReg 6
+    100336: LRegpart1 1
+    100338: LRegPart1 3
+    100340: LRegPart1 4
+    100342: LRegPart1 5
+    100344: LRegPart2 3
+    100346: LRegPart2 4
+    100348: LRegPart2 5
+    100350: LRegPart2 6
+    100352: LRegpart3 1
+    100354: LRegPart3 3
+    100356: LRegPart3 4
+    100358: LRegPart3 5
+    100360: RArm 3
+    100362: RArm 4
+    100364: RArm 5
+    100366: RArm 6
+    100368: RArmPart1 4
+    100370: RArmPart1 5
+    100372: RArmPart1 6
+    100374: RArmPart2 4
+    100376: RArmPart2 5
+    100378: RArmPart2 6
+    100380: RArmPart3 4
+    100382: RArmPart3 5
+    100384: RArmPart3 6
+    100386: robot12
+    100388: robot14
+    100390: robot15
+    100392: robot9
+    100394: RReg 3
+    100396: RReg 4
+    100398: RReg 5
+    100400: RReg 6
+    100402: RRegPart1 2
+    100404: RRegPart1 3
+    100406: RRegPart1 4
+    100408: RRegPart1 5
+    100410: RRegPart2 2
+    100412: RRegpart2 2
+    100414: RRegPart2 3
+    100416: RRegPart2 4
+    100418: RRegpart3 1
+    100420: RRegpart3 2
+    100422: RRegPart3 3
+    100424: RRegPart3 4
+    100426: Head 5
+    100428: head 5
+    100430: Head 6
+    100432: head 6
+    100434: Head 7
+    100436: Head 8
+    100438: LArm 10
+    100440: LArm 11
+    100442: LArm 12
+    100444: LArm 7
+    100446: LArm 8
+    100448: LArm 9
+    100450: LLeg
+    100452: LLeg 1
+    100454: LLeg 2
+    100456: LReg 7
+    100458: LReg 8
+    100460: LReg 9
+    100462: part1 10
+    100464: part1 11
+    100466: part1 12
+    100468: part1 13
+    100470: part1 14
+    100472: part1 15
+    100474: part1 16
+    100476: part1 17
+    100478: part1 18
+    100480: part1 19
+    100482: part1 20
+    100484: part1 21
+    100486: part1 22
+    100488: part1 23
+    100490: part1 24
+    100492: part1 25
+    100494: part1 26
+    100496: part1 27
+    100498: part1 4
+    100500: part1 5
+    100502: part1 6
+    100504: part1 7
+    100506: part1 8
+    100508: part1 9
+    100510: part2 10
+    100512: part2 11
+    100514: part2 12
+    100516: part2 13
+    100518: part2 14
+    100520: part2 15
+    100522: part2 16
+    100524: part2 17
+    100526: part2 18
+    100528: part2 19
+    100530: part2 20
+    100532: part2 21
+    100534: part2 22
+    100536: part2 23
+    100538: part2 24
+    100540: part2 25
+    100542: part2 26
+    100544: part2 3
+    100546: part2 4
+    100548: part2 5
+    100550: part2 6
+    100552: part2 7
+    100554: part2 8
+    100556: part2 9
+    100558: part3 10
+    100560: part3 11
+    100562: part3 12
+    100564: part3 13
+    100566: part3 14
+    100568: part3 15
+    100570: part3 16
+    100572: part3 17
+    100574: part3 18
+    100576: part3 19
+    100578: part3 2
+    100580: part3 20
+    100582: part3 21
+    100584: part3 22
+    100586: part3 23
+    100588: part3 24
+    100590: part3 25
+    100592: part3 3
+    100594: part3 4
+    100596: part3 5
+    100598: part3 6
+    100600: part3 7
+    100602: part3 8
+    100604: part3 9
+    100606: RArm 10
+    100608: RArm 11
+    100610: RArm 12
+    100612: RArm 7
+    100614: RArm 8
+    100616: RArm 9
+    100618: RLeg
+    100620: RLeg 1
+    100622: RLeg 2
+    100624: robot16
+    100626: robot17
+    100628: robot18
+    100630: robot19
+    100632: robot20
+    100634: robot21
+    100636: RReg 7
+    100638: RReg 8
+    100640: RReg 9
+    100642: Torso1
+    100644: Torso1 1
+    100646: Torso1 2
+    100648: Torso1 3
+    100650: Torso1 4
+    100652: Torso1 5
+    100654: Torso2
+    100656: Torso2 1
+    100658: Torso2 2
+    100660: Torso2 3
+    100662: Torso2 4
+    100664: Torso2 5
+    100666: group1
+    100668: group2
+    100670: HEAD
+    100672: HEAD 1
+    100674: HEAD 2
+    100676: LEFTARM
+    100678: LEG
+    100680: LEG 1
+    100682: polySurface11
+    100684: polySurface15
+    100686: polySurface17
+    100688: polySurface19
+    100690: polySurface2
+    100692: polySurface20
+    100694: polySurface23
+    100696: polySurface25
+    100698: polySurface27
+    100700: polySurface3
+    100702: polySurface30
+    100704: polySurface31
+    100706: polySurface32
+    100708: polySurface4
+    100710: RIGHTARM
+    100712: skeleton
+    100714: ALANNA
+    100716: BOXTROT
+    100718: BRAYAN
+    100720: CASEY
+    100722: CEDRIC
+    100724: DARBI
+    100726: DONARDO
+    100728: EILEEN
+    100730: head 10
+    100732: head 11
+    100734: head 12
+    100736: head 13
+    100738: head 14
+    100740: head 15
+    100742: head 7
+    100744: head 8
+    100746: head 9
+    100748: larm
+    100750: larm 1
+    100752: larm 10
+    100754: larm 11
+    100756: larm 12
+    100758: larm 13
+    100760: larm 14
+    100762: larm 15
+    100764: larm 2
+    100766: larm 3
+    100768: larm 4
+    100770: larm 5
+    100772: larm 6
+    100774: larm 7
+    100776: larm 8
+    100778: larm 9
+    100780: leg
+    100782: leg 1
+    100784: leg 10
+    100786: leg 11
+    100788: leg 12
+    100790: leg 13
+    100792: leg 14
+    100794: leg 15
+    100796: leg 2
+    100798: leg 3
+    100800: leg 4
+    100802: leg 5
+    100804: leg 6
+    100806: leg 7
+    100808: leg 8
+    100810: leg 9
+    100812: LESLEY
+    100814: lleg
+    100816: MAIDEN
+    100818: OLYMPUS
+    100820: QUINN
+    100822: rarm
+    100824: rarm 1
+    100826: rarm 10
+    100828: rarm 11
+    100830: rarm 12
+    100832: rarm 13
+    100834: rarm 14
+    100836: rarm 15
+    100838: rarm 2
+    100840: rarm 3
+    100842: rarm 4
+    100844: rarm 5
+    100846: rarm 6
+    100848: rarm 7
+    100850: rarm 8
+    100852: rarm 9
+    100854: rleg
+    100856: ROBAK
+    100858: SAYER
+    100860: TWEEZER
+    400000: ArmL
+    400002: armL
+    400004: ArmR
+    400006: armR
+    400008: BodyBottom
+    400010: bodyBottom
+    400012: bodyBottom 1
+    400014: BodyTop
+    400016: bodyTop
+    400018: bodyTop 1
+    400020: Bone
+    400022: FeetL
+    400024: FeetR
+    400026: Head
+    400028: head
+    400030: Head 1
+    400032: Head 2
+    400034: Hips
+    400036: //RootNode
+    400038: LArm
+    400040: LArmPart1
+    400042: LArmPart1 1
+    400044: LArmPart2
+    400046: LArmPart2 1
+    400048: LArmPart3
+    400050: LArmpart3
+    400052: LeftArm
+    400054: LeftFoot
+    400056: LeftForeArm
+    400058: LeftHand
+    400060: LeftHandIndex1
+    400062: LeftHandIndex2
+    400064: LeftHandRing1
+    400066: LeftHandRing2
+    400068: LeftHandThumb1
+    400070: LeftHandThumb2
+    400072: LeftLeg
+    400074: LeftShoulder
+    400076: LeftToeBase
+    400078: LeftUpLeg
+    400080: LReg
+    400082: LRegPart1
+    400084: LRegPart1 1
+    400086: LRegPart2
+    400088: LRegPart2 1
+    400090: LRegPart3
+    400092: LRegPart3 1
+    400094: Neck
+    400096: part1
+    400098: part1 1
+    400100: part1 2
+    400102: part1 3
+    400104: part2
+    400106: part2 1
+    400108: part2 2
+    400110: part3
+    400112: part3 1
+    400114: prat2
+    400116: RArm
+    400118: RArmPart1
+    400120: RArmPart1 1
+    400122: RArmPart2
+    400124: RArmPart2 1
+    400126: RArmPart3
+    400128: RArmPart3 1
+    400130: regL
+    400132: regR
+    400134: RightArm
+    400136: RightFoot
+    400138: RightForeArm
+    400140: RightHand
+    400142: RightHandIndex1
+    400144: RightHandIndex2
+    400146: RightHandRing1
+    400148: RightHandRing2
+    400150: RightHandThumb1
+    400152: RightHandThumb2
+    400154: RightLeg
+    400156: RightShoulder
+    400158: RightToeBase
+    400160: RightUpLeg
+    400162: robot2
+    400164: robot5
+    400166: robot6
+    400168: RReg
+    400170: RRegPart1
+    400172: RRegpart1
+    400174: RRegPart2
+    400176: RRegpart2
+    400178: RRegPart3
+    400180: RRegPart3 1
+    400182: Spine
+    400184: Spine1
+    400186: Spine2
+    400188: bodyBottom 2
+    400190: bodyBottom 3
+    400192: bodyTop 2
+    400194: bodyTop 3
+    400196: head 1
+    400198: Head 3
+    400200: LArm 1
+    400202: LArm 2
+    400204: LArmPart1 2
+    400206: LArmPart1 3
+    400208: LArmPart2 2
+    400210: LArmPart2 3
+    400212: LArmPart3 1
+    400214: LArmPart3 2
+    400216: LReg 1
+    400218: LReg 2
+    400220: LRegpart1
+    400222: LRegPart1 2
+    400224: LRegpart2
+    400226: LRegPart2 2
+    400228: LRegpart3
+    400230: LRegPart3 2
+    400232: RArm 1
+    400234: RArm 2
+    400236: RArmPart1 2
+    400238: RArmPart1 3
+    400240: RArmPart2 2
+    400242: RArmPart2 3
+    400244: RArmPart3 2
+    400246: RArmPart3 3
+    400248: robot7
+    400250: robot8
+    400252: RReg 1
+    400254: RReg 2
+    400256: RRegPart1 1
+    400258: RRegpart1 1
+    400260: RRegPart2 1
+    400262: RRegpart2 1
+    400264: RRegpart3
+    400266: RRegPart3 2
+    400268: body
+    400270: bodyBottom 4
+    400272: bodyBottom 5
+    400274: bodyBottom 6
+    400276: bodyTop 4
+    400278: bodyTop 5
+    400280: bodyTop 6
+    400282: head 2
+    400284: head 3
+    400286: Head 4
+    400288: head 4
+    400290: LArm 3
+    400292: LArm 4
+    400294: LArm 5
+    400296: LArm 6
+    400298: LArmPart1 4
+    400300: LArmPart1 5
+    400302: LArmPart1 6
+    400304: LArmPart1 7
+    400306: LArmPart1 8
+    400308: LArmPart2 4
+    400310: LArmPart2 5
+    400312: LArmPart2 6
+    400314: LArmPart2 7
+    400316: LArmPart2 8
+    400318: LArmPart3 3
+    400320: LArmPart3 4
+    400322: LArmPart3 5
+    400324: LArmPart3 6
+    400326: LArmPart3 7
+    400328: LReg 3
+    400330: LReg 4
+    400332: LReg 5
+    400334: LReg 6
+    400336: LRegpart1 1
+    400338: LRegPart1 3
+    400340: LRegPart1 4
+    400342: LRegPart1 5
+    400344: LRegPart2 3
+    400346: LRegPart2 4
+    400348: LRegPart2 5
+    400350: LRegPart2 6
+    400352: LRegpart3 1
+    400354: LRegPart3 3
+    400356: LRegPart3 4
+    400358: LRegPart3 5
+    400360: RArm 3
+    400362: RArm 4
+    400364: RArm 5
+    400366: RArm 6
+    400368: RArmPart1 4
+    400370: RArmPart1 5
+    400372: RArmPart1 6
+    400374: RArmPart2 4
+    400376: RArmPart2 5
+    400378: RArmPart2 6
+    400380: RArmPart3 4
+    400382: RArmPart3 5
+    400384: RArmPart3 6
+    400386: robot12
+    400388: robot14
+    400390: robot15
+    400392: robot9
+    400394: RReg 3
+    400396: RReg 4
+    400398: RReg 5
+    400400: RReg 6
+    400402: RRegPart1 2
+    400404: RRegPart1 3
+    400406: RRegPart1 4
+    400408: RRegPart1 5
+    400410: RRegPart2 2
+    400412: RRegpart2 2
+    400414: RRegPart2 3
+    400416: RRegPart2 4
+    400418: RRegpart3 1
+    400420: RRegpart3 2
+    400422: RRegPart3 3
+    400424: RRegPart3 4
+    400426: Head 5
+    400428: head 5
+    400430: Head 6
+    400432: head 6
+    400434: Head 7
+    400436: Head 8
+    400438: LArm 10
+    400440: LArm 11
+    400442: LArm 12
+    400444: LArm 7
+    400446: LArm 8
+    400448: LArm 9
+    400450: LLeg
+    400452: LLeg 1
+    400454: LLeg 2
+    400456: LReg 7
+    400458: LReg 8
+    400460: LReg 9
+    400462: part1 10
+    400464: part1 11
+    400466: part1 12
+    400468: part1 13
+    400470: part1 14
+    400472: part1 15
+    400474: part1 16
+    400476: part1 17
+    400478: part1 18
+    400480: part1 19
+    400482: part1 20
+    400484: part1 21
+    400486: part1 22
+    400488: part1 23
+    400490: part1 24
+    400492: part1 25
+    400494: part1 26
+    400496: part1 27
+    400498: part1 4
+    400500: part1 5
+    400502: part1 6
+    400504: part1 7
+    400506: part1 8
+    400508: part1 9
+    400510: part2 10
+    400512: part2 11
+    400514: part2 12
+    400516: part2 13
+    400518: part2 14
+    400520: part2 15
+    400522: part2 16
+    400524: part2 17
+    400526: part2 18
+    400528: part2 19
+    400530: part2 20
+    400532: part2 21
+    400534: part2 22
+    400536: part2 23
+    400538: part2 24
+    400540: part2 25
+    400542: part2 26
+    400544: part2 3
+    400546: part2 4
+    400548: part2 5
+    400550: part2 6
+    400552: part2 7
+    400554: part2 8
+    400556: part2 9
+    400558: part3 10
+    400560: part3 11
+    400562: part3 12
+    400564: part3 13
+    400566: part3 14
+    400568: part3 15
+    400570: part3 16
+    400572: part3 17
+    400574: part3 18
+    400576: part3 19
+    400578: part3 2
+    400580: part3 20
+    400582: part3 21
+    400584: part3 22
+    400586: part3 23
+    400588: part3 24
+    400590: part3 25
+    400592: part3 3
+    400594: part3 4
+    400596: part3 5
+    400598: part3 6
+    400600: part3 7
+    400602: part3 8
+    400604: part3 9
+    400606: RArm 10
+    400608: RArm 11
+    400610: RArm 12
+    400612: RArm 7
+    400614: RArm 8
+    400616: RArm 9
+    400618: RLeg
+    400620: RLeg 1
+    400622: RLeg 2
+    400624: robot16
+    400626: robot17
+    400628: robot18
+    400630: robot19
+    400632: robot20
+    400634: robot21
+    400636: RReg 7
+    400638: RReg 8
+    400640: RReg 9
+    400642: Torso1
+    400644: Torso1 1
+    400646: Torso1 2
+    400648: Torso1 3
+    400650: Torso1 4
+    400652: Torso1 5
+    400654: Torso2
+    400656: Torso2 1
+    400658: Torso2 2
+    400660: Torso2 3
+    400662: Torso2 4
+    400664: Torso2 5
+    400666: group1
+    400668: group2
+    400670: HEAD
+    400672: HEAD 1
+    400674: HEAD 2
+    400676: LEFTARM
+    400678: LEG
+    400680: LEG 1
+    400682: polySurface11
+    400684: polySurface15
+    400686: polySurface17
+    400688: polySurface19
+    400690: polySurface2
+    400692: polySurface20
+    400694: polySurface23
+    400696: polySurface25
+    400698: polySurface27
+    400700: polySurface3
+    400702: polySurface30
+    400704: polySurface31
+    400706: polySurface32
+    400708: polySurface4
+    400710: RIGHTARM
+    400712: skeleton
+    400714: ALANNA
+    400716: BOXTROT
+    400718: BRAYAN
+    400720: CASEY
+    400722: CEDRIC
+    400724: DARBI
+    400726: DONARDO
+    400728: EILEEN
+    400730: head 10
+    400732: head 11
+    400734: head 12
+    400736: head 13
+    400738: head 14
+    400740: head 15
+    400742: head 7
+    400744: head 8
+    400746: head 9
+    400748: larm
+    400750: larm 1
+    400752: larm 10
+    400754: larm 11
+    400756: larm 12
+    400758: larm 13
+    400760: larm 14
+    400762: larm 15
+    400764: larm 2
+    400766: larm 3
+    400768: larm 4
+    400770: larm 5
+    400772: larm 6
+    400774: larm 7
+    400776: larm 8
+    400778: larm 9
+    400780: leg
+    400782: leg 1
+    400784: leg 10
+    400786: leg 11
+    400788: leg 12
+    400790: leg 13
+    400792: leg 14
+    400794: leg 15
+    400796: leg 2
+    400798: leg 3
+    400800: leg 4
+    400802: leg 5
+    400804: leg 6
+    400806: leg 7
+    400808: leg 8
+    400810: leg 9
+    400812: LESLEY
+    400814: lleg
+    400816: MAIDEN
+    400818: OLYMPUS
+    400820: QUINN
+    400822: rarm
+    400824: rarm 1
+    400826: rarm 10
+    400828: rarm 11
+    400830: rarm 12
+    400832: rarm 13
+    400834: rarm 14
+    400836: rarm 15
+    400838: rarm 2
+    400840: rarm 3
+    400842: rarm 4
+    400844: rarm 5
+    400846: rarm 6
+    400848: rarm 7
+    400850: rarm 8
+    400852: rarm 9
+    400854: rleg
+    400856: ROBAK
+    400858: SAYER
+    400860: TWEEZER
+    4300000: BodyBottom
+    4300002: part2
+    4300004: part3
+    4300006: part1
+    4300008: part2
+    4300010: part1
+    4300012: part3
+    4300014: BodyTop
+    4300016: Head
+    4300018: prat2
+    4300020: part1
+    4300022: part1
+    4300024: part2
+    4300026: bodyBottom
+    4300028: LRegPart1
+    4300030: LRegPart3
+    4300032: LRegPart2
+    4300034: RRegPart1
+    4300036: RRegPart3
+    4300038: RRegPart2
+    4300040: Head
+    4300042: LArmPart2
+    4300044: LArmPart1
+    4300046: LArmpart3
+    4300048: bodyTop
+    4300050: RArmPart2
+    4300052: RArmPart1
+    4300054: RArmPart3
+    4300056: RRegpart1
+    4300058: RRegPart3
+    4300060: RRegpart2
+    4300062: LRegPart2
+    4300064: LRegPart3
+    4300066: LRegPart1
+    4300068: bodyBottom
+    4300070: bodyTop
+    4300072: RArmPart2
+    4300074: RArmPart3
+    4300076: RArmPart1
+    4300078: LArmPart2
+    4300080: LArmPart3
+    4300082: LArmPart1
+    4300084: head
+    4300086: RRegPart3
+    4300088: RRegPart1
+    4300090: RRegPart2
+    4300092: head
+    4300094: bodyTop
+    4300096: LArmPart2
+    4300098: LArmPart1
+    4300100: LArmPart3
+    4300102: RArmPart2
+    4300104: RArmPart1
+    4300106: RArmPart3
+    4300108: bodyBottom
+    4300110: LRegPart3
+    4300112: LRegPart1
+    4300114: LRegPart2
+    4300116: bodyBottom
+    4300118: bodyTop
+    4300120: Head
+    4300122: LRegpart3
+    4300124: LRegpart2
+    4300126: LRegpart1
+    4300128: LArmPart1
+    4300130: LArmPart3
+    4300132: LArmPart2
+    4300134: RArmPart1
+    4300136: RArmPart2
+    4300138: RArmPart3
+    4300140: RRegpart3
+    4300142: RRegpart2
+    4300144: RRegpart1
+    4300146: bodyBottom
+    4300148: RArmPart2
+    4300150: RArmPart1
+    4300152: RArmPart3
+    4300154: LArmPart2
+    4300156: LArmPart3
+    4300158: LArmPart1
+    4300160: bodyTop
+    4300162: head
+    4300164: LRegPart3
+    4300166: LRegPart1
+    4300168: LRegPart2
+    4300170: RRegpart3
+    4300172: RRegPart2
+    4300174: RRegPart1
+    4300176: RRegPart3
+    4300178: RRegPart1
+    4300180: RRegPart2
+    4300182: LRegPart3
+    4300184: LRegPart1
+    4300186: LRegPart2
+    4300188: bodyBottom
+    4300190: LArmPart2
+    4300192: LArmPart1
+    4300194: LArmPart3
+    4300196: LArmPart2
+    4300198: LArmPart1
+    4300200: LArmPart3
+    4300202: head
+    4300204: bodyTop
+    4300206: bodyTop
+    4300208: LArmPart1
+    4300210: LArmPart3
+    4300212: LArmPart2
+    4300214: RArmPart1
+    4300216: RArmPart2
+    4300218: RArmPart3
+    4300220: bodyBottom
+    4300222: LRegpart3
+    4300224: LRegPart2
+    4300226: LRegPart1
+    4300228: RRegpart2
+    4300230: RRegPart3
+    4300232: RRegPart1
+    4300234: head
+    4300236: LRegpart1
+    4300238: LRegPart2
+    4300240: LRegPart3
+    4300242: RRegpart3
+    4300244: RRegPart2
+    4300246: RRegPart1
+    4300248: RArmPart3
+    4300250: RArmPart2
+    4300252: RArmPart1
+    4300254: LArmPart2
+    4300256: LArmPart3
+    4300258: LArmPart1
+    4300260: Head
+    4300262: body
+    4300264: head
+    4300266: Torso2
+    4300268: Torso1
+    4300270: part1
+    4300272: part2
+    4300274: part3
+    4300276: part3
+    4300278: part2
+    4300280: part1
+    4300282: part3
+    4300284: part2
+    4300286: part1
+    4300288: part1
+    4300290: part2
+    4300292: part3
+    4300294: Torso1
+    4300296: Head
+    4300298: Torso2
+    4300300: part1
+    4300302: part2
+    4300304: part3
+    4300306: part3
+    4300308: part2
+    4300310: part1
+    4300312: part1
+    4300314: part2
+    4300316: part3
+    4300318: part1
+    4300320: part2
+    4300322: part3
+    4300324: Head
+    4300326: Torso1
+    4300328: Torso2
+    4300330: part1
+    4300332: part2
+    4300334: part3
+    4300336: part3
+    4300338: part2
+    4300340: part1
+    4300342: part1
+    4300344: part2
+    4300346: part3
+    4300348: part3
+    4300350: part2
+    4300352: part1
+    4300354: Torso1
+    4300356: head
+    4300358: Torso2
+    4300360: part1
+    4300362: part2
+    4300364: part3
+    4300366: part1
+    4300368: part2
+    4300370: part3
+    4300372: part1
+    4300374: part2
+    4300376: part3
+    4300378: part3
+    4300380: part2
+    4300382: part1
+    4300384: Head
+    4300386: Torso1
+    4300388: Torso2
+    4300390: part1
+    4300392: part2
+    4300394: part3
+    4300396: part1
+    4300398: part3
+    4300400: part2
+    4300402: part1
+    4300404: part2
+    4300406: part3
+    4300408: part1
+    4300410: part2
+    4300412: part3
+    4300414: Torso1
+    4300416: Head
+    4300418: Torso2
+    4300420: part3
+    4300422: part2
+    4300424: part1
+    4300426: part1
+    4300428: part2
+    4300430: part3
+    4300432: part1
+    4300434: part2
+    4300436: part3
+    4300438: part1
+    4300440: part2
+    4300442: part3
+    4300444: polySurface31
+    4300446: polySurface27
+    4300448: polySurface25
+    4300450: polySurface30
+    4300452: polySurface23
+    4300454: polySurface20
+    4300456: polySurface15
+    4300458: polySurface17
+    4300460: polySurface2
+    4300462: polySurface4
+    4300464: polySurface19
+    4300466: polySurface11
+    4300468: polySurface32
+    4300470: polySurface3
+    4300472: HEAD
+    4300474: head
+    4300476: head
+    4300478: head
+    4300480: head
+    4300482: head
+    4300484: head
+    4300486: head
+    4300488: head
+    4300490: head
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: BodyBottom
+    13700002: bodyBottom
+    13700004: bodyBottom 1
+    13700006: BodyTop
+    13700008: bodyTop
+    13700010: bodyTop 1
+    13700012: Head
+    13700014: head
+    13700016: Head 1
+    13700018: LArmPart1
+    13700020: LArmPart1 1
+    13700022: LArmPart2
+    13700024: LArmPart2 1
+    13700026: LArmPart3
+    13700028: LArmpart3
+    13700030: LRegPart1
+    13700032: LRegPart1 1
+    13700034: LRegPart2
+    13700036: LRegPart2 1
+    13700038: LRegPart3
+    13700040: LRegPart3 1
+    13700042: part1
+    13700044: part1 1
+    13700046: part1 2
+    13700048: part1 3
+    13700050: part2
+    13700052: part2 1
+    13700054: part2 2
+    13700056: part3
+    13700058: part3 1
+    13700060: prat2
+    13700062: RArmPart1
+    13700064: RArmPart1 1
+    13700066: RArmPart2
+    13700068: RArmPart2 1
+    13700070: RArmPart3
+    13700072: RArmPart3 1
+    13700074: RRegPart1
+    13700076: RRegpart1
+    13700078: RRegPart2
+    13700080: RRegpart2
+    13700082: RRegPart3
+    13700084: RRegPart3 1
+    13700086: bodyBottom 2
+    13700088: bodyBottom 3
+    13700090: bodyTop 2
+    13700092: bodyTop 3
+    13700094: head 1
+    13700096: Head 2
+    13700098: LArmPart1 2
+    13700100: LArmPart1 3
+    13700102: LArmPart2 2
+    13700104: LArmPart2 3
+    13700106: LArmPart3 1
+    13700108: LArmPart3 2
+    13700110: LRegpart1
+    13700112: LRegPart1 2
+    13700114: LRegpart2
+    13700116: LRegPart2 2
+    13700118: LRegpart3
+    13700120: LRegPart3 2
+    13700122: RArmPart1 2
+    13700124: RArmPart1 3
+    13700126: RArmPart2 2
+    13700128: RArmPart2 3
+    13700130: RArmPart3 2
+    13700132: RArmPart3 3
+    13700134: RRegPart1 1
+    13700136: RRegpart1 1
+    13700138: RRegPart2 1
+    13700140: RRegpart2 1
+    13700142: RRegpart3
+    13700144: RRegPart3 2
+    13700146: body
+    13700148: bodyBottom 4
+    13700150: bodyBottom 5
+    13700152: bodyBottom 6
+    13700154: bodyTop 4
+    13700156: bodyTop 5
+    13700158: bodyTop 6
+    13700160: head 2
+    13700162: Head 3
+    13700164: head 3
+    13700166: head 4
+    13700168: LArmPart1 4
+    13700170: LArmPart1 5
+    13700172: LArmPart1 6
+    13700174: LArmPart1 7
+    13700176: LArmPart1 8
+    13700178: LArmPart2 4
+    13700180: LArmPart2 5
+    13700182: LArmPart2 6
+    13700184: LArmPart2 7
+    13700186: LArmPart2 8
+    13700188: LArmPart3 3
+    13700190: LArmPart3 4
+    13700192: LArmPart3 5
+    13700194: LArmPart3 6
+    13700196: LArmPart3 7
+    13700198: LRegpart1 1
+    13700200: LRegPart1 3
+    13700202: LRegPart1 4
+    13700204: LRegPart1 5
+    13700206: LRegPart2 3
+    13700208: LRegPart2 4
+    13700210: LRegPart2 5
+    13700212: LRegPart2 6
+    13700214: LRegpart3 1
+    13700216: LRegPart3 3
+    13700218: LRegPart3 4
+    13700220: LRegPart3 5
+    13700222: RArmPart1 4
+    13700224: RArmPart1 5
+    13700226: RArmPart1 6
+    13700228: RArmPart2 4
+    13700230: RArmPart2 5
+    13700232: RArmPart2 6
+    13700234: RArmPart3 4
+    13700236: RArmPart3 5
+    13700238: RArmPart3 6
+    13700240: RRegPart1 2
+    13700242: RRegPart1 3
+    13700244: RRegPart1 4
+    13700246: RRegPart1 5
+    13700248: RRegPart2 2
+    13700250: RRegpart2 2
+    13700252: RRegPart2 3
+    13700254: RRegPart2 4
+    13700256: RRegpart3 1
+    13700258: RRegpart3 2
+    13700260: RRegPart3 3
+    13700262: RRegPart3 4
+    13700264: Head 4
+    13700266: Head 5
+    13700268: head 5
+    13700270: Head 6
+    13700272: head 6
+    13700274: Head 7
+    13700276: part1 10
+    13700278: part1 11
+    13700280: part1 12
+    13700282: part1 13
+    13700284: part1 14
+    13700286: part1 15
+    13700288: part1 16
+    13700290: part1 17
+    13700292: part1 18
+    13700294: part1 19
+    13700296: part1 20
+    13700298: part1 21
+    13700300: part1 22
+    13700302: part1 23
+    13700304: part1 24
+    13700306: part1 25
+    13700308: part1 26
+    13700310: part1 27
+    13700312: part1 4
+    13700314: part1 5
+    13700316: part1 6
+    13700318: part1 7
+    13700320: part1 8
+    13700322: part1 9
+    13700324: part2 10
+    13700326: part2 11
+    13700328: part2 12
+    13700330: part2 13
+    13700332: part2 14
+    13700334: part2 15
+    13700336: part2 16
+    13700338: part2 17
+    13700340: part2 18
+    13700342: part2 19
+    13700344: part2 20
+    13700346: part2 21
+    13700348: part2 22
+    13700350: part2 23
+    13700352: part2 24
+    13700354: part2 25
+    13700356: part2 26
+    13700358: part2 3
+    13700360: part2 4
+    13700362: part2 5
+    13700364: part2 6
+    13700366: part2 7
+    13700368: part2 8
+    13700370: part2 9
+    13700372: part3 10
+    13700374: part3 11
+    13700376: part3 12
+    13700378: part3 13
+    13700380: part3 14
+    13700382: part3 15
+    13700384: part3 16
+    13700386: part3 17
+    13700388: part3 18
+    13700390: part3 19
+    13700392: part3 2
+    13700394: part3 20
+    13700396: part3 21
+    13700398: part3 22
+    13700400: part3 23
+    13700402: part3 24
+    13700404: part3 25
+    13700406: part3 3
+    13700408: part3 4
+    13700410: part3 5
+    13700412: part3 6
+    13700414: part3 7
+    13700416: part3 8
+    13700418: part3 9
+    13700420: Torso1
+    13700422: Torso1 1
+    13700424: Torso1 2
+    13700426: Torso1 3
+    13700428: Torso1 4
+    13700430: Torso1 5
+    13700432: Torso2
+    13700434: Torso2 1
+    13700436: Torso2 2
+    13700438: Torso2 3
+    13700440: Torso2 4
+    13700442: Torso2 5
+    13700444: HEAD 2
+    13700446: polySurface11
+    13700448: polySurface15
+    13700450: polySurface17
+    13700452: polySurface19
+    13700454: polySurface2
+    13700456: polySurface20
+    13700458: polySurface23
+    13700460: polySurface25
+    13700462: polySurface27
+    13700464: polySurface3
+    13700466: polySurface30
+    13700468: polySurface31
+    13700470: polySurface32
+    13700472: polySurface4
+    13700474: head 10
+    13700476: head 11
+    13700478: head 12
+    13700480: head 13
+    13700482: head 14
+    13700484: head 15
+    13700486: head 7
+    13700488: head 8
+    13700490: head 9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: HMRobot(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ALANNA
+      parentName: HMRobot(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head
+      parentName: ALANNA
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Torso1
+      parentName: head
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Torso2
+      parentName: head
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: larm
+      parentName: ALANNA
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1
+      parentName: larm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2
+      parentName: larm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3
+      parentName: larm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg
+      parentName: ALANNA
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LReg
+      parentName: leg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 14
+      parentName: LReg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 14
+      parentName: LReg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 14
+      parentName: LReg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RReg
+      parentName: leg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 15
+      parentName: RReg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 15
+      parentName: RReg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 15
+      parentName: RReg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rarm
+      parentName: ALANNA
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 1
+      parentName: rarm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 1
+      parentName: rarm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 1
+      parentName: rarm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone
+      parentName: HMRobot(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hips
+      parentName: Bone
+      position: {x: -0, y: 4.057041, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine
+      parentName: Hips
+      position: {x: -0, y: 0.2839929, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine1
+      parentName: Spine
+      position: {x: -0, y: 0.5138919, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine2
+      parentName: Spine1
+      position: {x: -0, y: 0.5138919, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightShoulder
+      parentName: Spine2
+      position: {x: 0.57458895, y: 0.15422186, z: 0}
+      rotation: {x: 1, y: -0, z: 0, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightArm
+      parentName: RightShoulder
+      position: {x: 0.544351, y: -0.000009999999, z: 1.2246468e-21}
+      rotation: {x: -0, y: -3.7122804e-17, z: -0.30313072, w: 0.952949}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightForeArm
+      parentName: RightArm
+      position: {x: 0.79718995, y: 0.63123, z: -7.7303377e-17}
+      rotation: {x: 1.6543612e-24, y: -1.2813703e-17, z: -0.10463181, w: 0.99451107}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHand
+      parentName: RightForeArm
+      position: {x: 1.2154399, y: 1.5273899, z: -1.8705132e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandThumb1
+      parentName: RightHand
+      position: {x: 0.22699, y: 0.29972, z: -0.37534598}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandThumb2
+      parentName: RightHandThumb1
+      position: {x: 0.18261999, y: 0.28160998, z: -0.09341599}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandIndex1
+      parentName: RightHand
+      position: {x: 0.21833998, y: 0.28577, z: -0.09673029}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandIndex2
+      parentName: RightHandIndex1
+      position: {x: 0.19507, y: 0.30014, z: -0.0059716995}
+      rotation: {x: 0, y: -0.0000053165777, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandRing1
+      parentName: RightHand
+      position: {x: 0.22, y: 0.28862998, z: 0.43406498}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandRing2
+      parentName: RightHandRing1
+      position: {x: 0.20380999, y: 0.30945998, z: 0.13644}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Neck
+      parentName: Spine2
+      position: {x: -0, y: 0.5138919, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: Neck
+      position: {x: -0, y: 0.8114083, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftShoulder
+      parentName: Spine2
+      position: {x: -0.57458895, y: 0.15422186, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftArm
+      parentName: LeftShoulder
+      position: {x: -0.544351, y: 0.000009999999, z: -4.1059498e-32}
+      rotation: {x: 2.7808455e-33, y: -2.7188773e-32, z: -0.30313072, w: 0.952949}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftForeArm
+      parentName: LeftArm
+      position: {x: -0.79718995, y: -0.63123, z: 4.9303824e-32}
+      rotation: {x: -1.3011725e-32, y: 1.03542465e-32, z: -0.10463181, w: 0.99451107}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHand
+      parentName: LeftForeArm
+      position: {x: -1.2154399, y: -1.5273899, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandThumb1
+      parentName: LeftHand
+      position: {x: -0.22699, y: -0.29972, z: 0.37534598}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandThumb2
+      parentName: LeftHandThumb1
+      position: {x: -0.18261999, y: -0.28160998, z: 0.09341599}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandIndex1
+      parentName: LeftHand
+      position: {x: -0.21833998, y: -0.28577, z: 0.09673029}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandIndex2
+      parentName: LeftHandIndex1
+      position: {x: -0.19507, y: -0.30014, z: 0.0059716995}
+      rotation: {x: 0, y: -0.0000053165777, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandRing1
+      parentName: LeftHand
+      position: {x: -0.22, y: -0.28862998, z: -0.43406498}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandRing2
+      parentName: LeftHandRing1
+      position: {x: -0.20380999, y: -0.30945998, z: -0.13644}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftUpLeg
+      parentName: Hips
+      position: {x: -0.5392593, y: -0.2543765, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftLeg
+      parentName: LeftUpLeg
+      position: {x: -0.11365822, y: -1.8171941, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftFoot
+      parentName: LeftLeg
+      position: {x: -0.10307794, y: -1.6480342, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftToeBase
+      parentName: LeftFoot
+      position: {x: -0.015860086, y: -0.25356928, z: 0.5255784}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightUpLeg
+      parentName: Hips
+      position: {x: 0.5307937, y: -0.2543765, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightLeg
+      parentName: RightUpLeg
+      position: {x: 0.14638756, y: -1.8148507, z: 0.000017811384}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightFoot
+      parentName: RightLeg
+      position: {x: 0.13276042, y: -1.6459091, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightToeBase
+      parentName: RightFoot
+      position: {x: 0.020470636, y: -0.25323877, z: 0.5255795}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BOXTROT
+      parentName: HMRobot(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head 1
+      parentName: BOXTROT
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BodyBottom
+      parentName: head 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BodyTop
+      parentName: head 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: larm 1
+      parentName: BOXTROT
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 2
+      parentName: larm 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 2
+      parentName: larm 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 2
+      parentName: larm 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg 1
+      parentName: BOXTROT
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FeetL
+      parentName: leg 1
+      position: {x: -0, y: 0, z: 0.14343153}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 16
+      parentName: FeetL
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prat2
+      parentName: FeetL
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FeetR
+      parentName: leg 1
+      position: {x: -0, y: 0, z: 0.14343153}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 17
+      parentName: FeetR
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 16
+      parentName: FeetR
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rarm 1
+      parentName: BOXTROT
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 3
+      parentName: rarm 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 3
+      parentName: rarm 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 3
+      parentName: rarm 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BRAYAN
+      parentName: HMRobot(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head 2
+      parentName: BRAYAN
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Torso1 1
+      parentName: head 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Torso2 1
+      parentName: head 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: larm 2
+      parentName: BRAYAN
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 4
+      parentName: larm 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 4
+      parentName: larm 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 4
+      parentName: larm 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg 2
+      parentName: BRAYAN
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LLeg
+      parentName: leg 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 18
+      parentName: LLeg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 17
+      parentName: LLeg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 16
+      parentName: LLeg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RLeg
+      parentName: leg 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 19
+      parentName: RLeg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 18
+      parentName: RLeg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 17
+      parentName: RLeg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rarm 2
+      parentName: BRAYAN
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 5
+      parentName: rarm 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 5
+      parentName: rarm 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 5
+      parentName: rarm 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CASEY
+      parentName: HMRobot(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head 3
+      parentName: CASEY
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Torso1 2
+      parentName: head 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Torso2 2
+      parentName: head 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: larm 3
+      parentName: CASEY
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 6
+      parentName: larm 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 6
+      parentName: larm 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 6
+      parentName: larm 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg 3
+      parentName: CASEY
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LLeg 1
+      parentName: leg 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 20
+      parentName: LLeg 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 19
+      parentName: LLeg 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 18
+      parentName: LLeg 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RLeg 1
+      parentName: leg 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 21
+      parentName: RLeg 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 20
+      parentName: RLeg 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 19
+      parentName: RLeg 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rarm 3
+      parentName: CASEY
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 7
+      parentName: rarm 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 7
+      parentName: rarm 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 7
+      parentName: rarm 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CEDRIC
+      parentName: HMRobot(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head 4
+      parentName: CEDRIC
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bodyBottom
+      parentName: head 4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bodyTop
+      parentName: head 4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: larm 4
+      parentName: CEDRIC
+      position: {x: -1.9611923, y: 3.7653596, z: 0.025114821}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart1
+      parentName: larm 4
+      position: {x: 1.9611923, y: -3.7653596, z: -0.025114821}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart2
+      parentName: larm 4
+      position: {x: 1.9611923, y: -3.7653596, z: -0.025114821}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart3
+      parentName: larm 4
+      position: {x: 1.9611923, y: -3.7653596, z: -0.025114821}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg 4
+      parentName: CEDRIC
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LReg 1
+      parentName: leg 4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegPart1
+      parentName: LReg 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegPart2
+      parentName: LReg 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegPart3
+      parentName: LReg 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RReg 1
+      parentName: leg 4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegPart1
+      parentName: RReg 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegPart2
+      parentName: RReg 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegPart3
+      parentName: RReg 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rarm 4
+      parentName: CEDRIC
+      position: {x: 1.9611923, y: 3.7653596, z: 0.025114821}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart1 1
+      parentName: rarm 4
+      position: {x: -1.9611923, y: -3.7653596, z: -0.025114821}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart2 1
+      parentName: rarm 4
+      position: {x: -1.9611923, y: -3.7653596, z: -0.025114821}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart3 1
+      parentName: rarm 4
+      position: {x: -1.9611923, y: -3.7653596, z: -0.025114821}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DARBI
+      parentName: HMRobot(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head 5
+      parentName: DARBI
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bodyBottom 1
+      parentName: head 5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bodyTop 1
+      parentName: head 5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: larm 5
+      parentName: DARBI
+      position: {x: -1.4507611, y: 4.666927, z: -0.10087449}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart1 2
+      parentName: larm 5
+      position: {x: 1.4507611, y: -4.666927, z: 0.10087449}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart2 2
+      parentName: larm 5
+      position: {x: 1.4507611, y: -4.666927, z: 0.10087449}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart3 2
+      parentName: larm 5
+      position: {x: 1.4507611, y: -4.666927, z: 0.10087449}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg 5
+      parentName: DARBI
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LReg 2
+      parentName: leg 5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegPart1 1
+      parentName: LReg 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegPart2 1
+      parentName: LReg 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegpart3
+      parentName: LReg 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RReg 2
+      parentName: leg 5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegPart1 1
+      parentName: RReg 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegpart2
+      parentName: RReg 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegPart3 1
+      parentName: RReg 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rarm 5
+      parentName: DARBI
+      position: {x: 1.3742436, y: 4.666927, z: -0.10087449}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart1
+      parentName: rarm 5
+      position: {x: -1.3742436, y: -4.666927, z: 0.10087449}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart2
+      parentName: rarm 5
+      position: {x: -1.3742436, y: -4.666927, z: 0.10087449}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart3
+      parentName: rarm 5
+      position: {x: -1.3742436, y: -4.666927, z: 0.10087449}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DONARDO
+      parentName: HMRobot(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head 6
+      parentName: DONARDO
+      position: {x: -0, y: -0.11903778, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bodyBottom 2
+      parentName: head 6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bodyTop 2
+      parentName: head 6
+      position: {x: -0, y: -0.35817844, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.8352161, z: 1}
+    - name: larm 6
+      parentName: DONARDO
+      position: {x: -0, y: -0.32251403, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart1 3
+      parentName: larm 6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart2 3
+      parentName: larm 6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmpart3
+      parentName: larm 6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg 6
+      parentName: DONARDO
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: regL
+      parentName: leg 6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegPart1 2
+      parentName: regL
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegPart2 2
+      parentName: regL
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegPart3 1
+      parentName: regL
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: regR
+      parentName: leg 6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegPart1 2
+      parentName: regR
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegPart2 1
+      parentName: regR
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegPart3 2
+      parentName: regR
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rarm 6
+      parentName: DONARDO
+      position: {x: -0, y: -0.32251403, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart1 1
+      parentName: rarm 6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart2 1
+      parentName: rarm 6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart3 1
+      parentName: rarm 6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EILEEN
+      parentName: HMRobot(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head 7
+      parentName: EILEEN
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Torso1 3
+      parentName: head 7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Torso2 3
+      parentName: head 7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: larm 7
+      parentName: EILEEN
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 8
+      parentName: larm 7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 8
+      parentName: larm 7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 8
+      parentName: larm 7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg 7
+      parentName: EILEEN
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LReg 3
+      parentName: leg 7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 22
+      parentName: LReg 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 21
+      parentName: LReg 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 20
+      parentName: LReg 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RReg 3
+      parentName: leg 7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 23
+      parentName: RReg 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 22
+      parentName: RReg 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 21
+      parentName: RReg 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rarm 7
+      parentName: EILEEN
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 9
+      parentName: rarm 7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 9
+      parentName: rarm 7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 9
+      parentName: rarm 7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LESLEY
+      parentName: HMRobot(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head 8
+      parentName: LESLEY
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Torso1 4
+      parentName: head 8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Torso2 4
+      parentName: head 8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: larm 8
+      parentName: LESLEY
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 10
+      parentName: larm 8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 10
+      parentName: larm 8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 10
+      parentName: larm 8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg 8
+      parentName: LESLEY
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LReg 4
+      parentName: leg 8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 24
+      parentName: LReg 4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 23
+      parentName: LReg 4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 22
+      parentName: LReg 4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RReg 4
+      parentName: leg 8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 25
+      parentName: RReg 4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 24
+      parentName: RReg 4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 23
+      parentName: RReg 4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rarm 8
+      parentName: LESLEY
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 11
+      parentName: rarm 8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 11
+      parentName: rarm 8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 11
+      parentName: rarm 8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MAIDEN
+      parentName: HMRobot(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head 9
+      parentName: MAIDEN
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bodyBottom 3
+      parentName: head 9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bodyTop 3
+      parentName: head 9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: larm 9
+      parentName: MAIDEN
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart1 4
+      parentName: larm 9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart2 4
+      parentName: larm 9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart3 3
+      parentName: larm 9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg 9
+      parentName: MAIDEN
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LReg 5
+      parentName: leg 9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegPart1 3
+      parentName: LReg 5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegPart2 3
+      parentName: LReg 5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegPart3 2
+      parentName: LReg 5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RReg 5
+      parentName: leg 9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegpart1
+      parentName: RReg 5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegpart2 1
+      parentName: RReg 5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegPart3 3
+      parentName: RReg 5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rarm 9
+      parentName: MAIDEN
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart1 2
+      parentName: rarm 9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart2 2
+      parentName: rarm 9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart3 2
+      parentName: rarm 9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: OLYMPUS
+      parentName: HMRobot(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head 10
+      parentName: OLYMPUS
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body
+      parentName: head 10
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: larm 10
+      parentName: OLYMPUS
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart1 5
+      parentName: larm 10
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart2 5
+      parentName: larm 10
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart3 4
+      parentName: larm 10
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg 10
+      parentName: OLYMPUS
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LReg 6
+      parentName: leg 10
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegpart1
+      parentName: LReg 6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegPart2 4
+      parentName: LReg 6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegPart3 3
+      parentName: LReg 6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RReg 6
+      parentName: leg 10
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegPart1 3
+      parentName: RReg 6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegPart2 2
+      parentName: RReg 6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegpart3
+      parentName: RReg 6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rarm 10
+      parentName: OLYMPUS
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart1 3
+      parentName: rarm 10
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart2 3
+      parentName: rarm 10
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart3 3
+      parentName: rarm 10
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QUINN
+      parentName: HMRobot(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head 11
+      parentName: QUINN
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.119997755, y: 0.119997755, z: 0.119997755}
+    - name: Torso1 5
+      parentName: head 11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.119997755, y: 0.119997755, z: 0.119997755}
+    - name: Torso2 5
+      parentName: head 11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.119997755, y: 0.119997755, z: 0.119997755}
+    - name: larm 11
+      parentName: QUINN
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 12
+      parentName: larm 11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 12
+      parentName: larm 11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 12
+      parentName: larm 11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg 11
+      parentName: QUINN
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LLeg 2
+      parentName: leg 11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 26
+      parentName: LLeg 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.119997755, y: 0.119997755, z: 0.119997755}
+    - name: part2 25
+      parentName: LLeg 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.119997755, y: 0.119997755, z: 0.119997755}
+    - name: part3 24
+      parentName: LLeg 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RLeg 2
+      parentName: leg 11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 27
+      parentName: RLeg 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.119997755, y: 0.119997755, z: 0.119997755}
+    - name: part2 26
+      parentName: RLeg 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.119997755, y: 0.119997755, z: 0.119997755}
+    - name: part3 25
+      parentName: RLeg 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rarm 11
+      parentName: QUINN
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part1 13
+      parentName: rarm 11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part2 13
+      parentName: rarm 11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: part3 13
+      parentName: rarm 11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ROBAK
+      parentName: HMRobot(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head 12
+      parentName: ROBAK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bodyBottom 4
+      parentName: head 12
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bodyTop 4
+      parentName: head 12
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: larm 12
+      parentName: ROBAK
+      position: {x: -0, y: -0.10606634, z: 0.24890481}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart1 6
+      parentName: larm 12
+      position: {x: -0, y: 0.10606634, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart2 6
+      parentName: larm 12
+      position: {x: -0, y: 0.10606634, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart3 5
+      parentName: larm 12
+      position: {x: -0, y: 0.10606634, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg 12
+      parentName: ROBAK
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LReg 7
+      parentName: leg 12
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegpart1 1
+      parentName: LReg 7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegpart2
+      parentName: LReg 7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegpart3 1
+      parentName: LReg 7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RReg 7
+      parentName: leg 12
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegpart1 1
+      parentName: RReg 7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegpart2 2
+      parentName: RReg 7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegpart3 1
+      parentName: RReg 7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rarm 12
+      parentName: ROBAK
+      position: {x: 2.072918, y: 4.676147, z: -0.05211357}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart1 4
+      parentName: rarm 12
+      position: {x: -2.072918, y: -4.7822127, z: 0.26978374}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart2 4
+      parentName: rarm 12
+      position: {x: -2.072918, y: -4.7822127, z: 0.26978374}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart3 4
+      parentName: rarm 12
+      position: {x: -2.072918, y: -4.7822127, z: 0.26978374}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SAYER
+      parentName: HMRobot(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head 13
+      parentName: SAYER
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bodyBottom 5
+      parentName: head 13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bodyTop 5
+      parentName: head 13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: larm 13
+      parentName: SAYER
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart1 7
+      parentName: larm 13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart2 7
+      parentName: larm 13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart3 6
+      parentName: larm 13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg 13
+      parentName: SAYER
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LReg 8
+      parentName: leg 13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegPart1 4
+      parentName: LReg 8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegPart2 5
+      parentName: LReg 8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegPart3 4
+      parentName: LReg 8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RReg 8
+      parentName: leg 13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegPart1 4
+      parentName: RReg 8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegPart2 3
+      parentName: RReg 8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegpart3 2
+      parentName: RReg 8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rarm 13
+      parentName: SAYER
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart1 5
+      parentName: rarm 13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart2 5
+      parentName: rarm 13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart3 5
+      parentName: rarm 13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skeleton
+      parentName: HMRobot(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head 15
+      parentName: skeleton
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface3
+      parentName: head 15
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface32
+      parentName: head 15
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: larm 15
+      parentName: skeleton
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface25
+      parentName: larm 15
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface27
+      parentName: larm 15
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface31
+      parentName: larm 15
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg 15
+      parentName: skeleton
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lleg
+      parentName: leg 15
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface2
+      parentName: lleg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface15
+      parentName: lleg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface17
+      parentName: lleg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rleg
+      parentName: leg 15
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface4
+      parentName: rleg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface11
+      parentName: rleg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface19
+      parentName: rleg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rarm 15
+      parentName: skeleton
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface20
+      parentName: rarm 15
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface23
+      parentName: rarm 15
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface30
+      parentName: rarm 15
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TWEEZER
+      parentName: HMRobot(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head 14
+      parentName: TWEEZER
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bodyBottom 6
+      parentName: head 14
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bodyTop 6
+      parentName: head 14
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: larm 14
+      parentName: TWEEZER
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart1 8
+      parentName: larm 14
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart2 8
+      parentName: larm 14
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LArmPart3 7
+      parentName: larm 14
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg 14
+      parentName: TWEEZER
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LReg 9
+      parentName: leg 14
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegPart1 5
+      parentName: LReg 9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegPart2 6
+      parentName: LReg 9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LRegPart3 5
+      parentName: LReg 9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RReg 9
+      parentName: leg 14
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegPart1 5
+      parentName: RReg 9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegPart2 4
+      parentName: RReg 9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RRegPart3 4
+      parentName: RReg 9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rarm 14
+      parentName: TWEEZER
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart1 6
+      parentName: rarm 14
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart2 6
+      parentName: rarm 14
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RArmPart3 6
+      parentName: rarm 14
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
